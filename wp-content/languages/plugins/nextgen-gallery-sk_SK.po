@@ -1,0 +1,2668 @@
+# Translation of Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release) in Slovak
+# This file is distributed under the same license as the Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-01 10:18:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release)\n"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:87
+msgid "Select"
+msgstr "Vybrať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:161
+msgid "Picture tag"
+msgstr "Značka obrázku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:162
+msgid "Picture tag: %2$l."
+msgstr "Značky: %2$l.."
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:163
+msgid "Separate picture tags with commas."
+msgstr "Oddeľte značky čiarkami."
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:278
+msgid "Get help"
+msgstr "Pomoc"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:279
+msgid "Contribute"
+msgstr "Podieľať sa"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:223
+msgid "Album"
+msgstr "Album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:636
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_preview_image_field.php:3
+msgid "No picture"
+msgstr "Žiadny obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:658
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_link_to_page_field.php:3
+msgid "Not linked"
+msgstr "Žiadny odkaz"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_create_page_field.php:10
+msgid "Add page"
+msgstr "Pridať stránku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:27
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Vyberte najnižšiu funkciu, ktorá by mala byť schopná sprístupniť nasledujúce  oprávnenia.  NextGEN Gallery podporuje bežné oprávnenia pre Wordpress."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:32
+msgid "Main NextGEN Gallery overview"
+msgstr "Hlavný prehľad NextGEN galérií"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:36
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Použiť tlačidlo TinyMCE / Upload tab"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:40
+msgid "Add gallery / Upload images"
+msgstr "Pridať galériu / Nahrať obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:44
+msgid "Manage gallery"
+msgstr "Správa galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:48
+msgid "Manage others gallery"
+msgstr "Spravovať galérie ostatných"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:52
+msgid "Manage tags"
+msgstr "Spravovanie značiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:60
+msgid "Change style"
+msgstr "Zmeniť štýl"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:64
+msgid "Change options"
+msgstr "Zmeniť nastavenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:53
+msgid "Image rotated"
+msgstr "Obrázok otočený"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:55
+msgid "Error rotating thumbnail"
+msgstr "Chyba pri otáčaní miniatúry"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:83
+msgid "90&deg; clockwise"
+msgstr "90&deg; v smere hod. ručičiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:85
+msgid "Flip vertically"
+msgstr "Prevrátiť vertikálne"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:86
+msgid "Flip horizontally"
+msgstr "Prevrátiť horizontálne"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:26
+msgid "Thumbnails"
+msgstr "Miniatúry"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:304
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:215
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:62
+msgid "Gallery path"
+msgstr "Cesta ku galérii"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:58
+msgid "Date / Time"
+msgstr "Dátum/Čas"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:42
+msgid "random"
+msgstr "náhodný"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Meta dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:34
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:63
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:93
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:120
+msgid "Tag"
+msgstr "Značka"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:64
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:94
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:121
+msgid "Value"
+msgstr "Hodnota"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:52
+msgid "No meta data saved"
+msgstr "Meta dáta neboli uložené"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:58
+msgid "EXIF Data"
+msgstr "EXIF dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:82
+msgid "No exif data"
+msgstr "Žiadne EXIF dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:89
+msgid "IPTC Data"
+msgstr "IPTC dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:116
+msgid "XMP Data"
+msgstr "XMP dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:42
+msgid "Most popular"
+msgstr "Najpopulárnejšie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:43
+msgid "Least used"
+msgstr "Najmenej používané"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:44
+msgid "Alphabetical"
+msgstr "Abecedne"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:103
+msgid "Manage image tags"
+msgstr "Správa značiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:111
+msgid "Search Tags"
+msgstr "Hľadať značky "
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:118
+msgid "Go"
+msgstr "Štart"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:158
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:162
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:175
+msgid "Previous tags"
+msgstr "Predchádzajúce značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:171
+msgid "Next tags"
+msgstr "Nasledujúce značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:183
+msgid "Rename Tag"
+msgstr "Premenovať značku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:195
+msgid "Tag(s) to rename:"
+msgstr "Premenovať značky:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:199
+msgid "New tag name(s):"
+msgstr "Nový názov značky:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:202
+msgid "Rename"
+msgstr "Premenovať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:208
+msgid "Delete Tag"
+msgstr "Zmazať značku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Zmazať značky:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Upraviť slug značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:241
+msgid "Tag(s) to match:"
+msgstr "Označiť značky:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:245
+msgid "Slug(s) to set:"
+msgstr "Treba nastaviť slug(y):"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:903
+msgid "Updated successfully"
+msgstr "Aktualizácia prebehla úspešne"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:57
+msgid "Network Options"
+msgstr "Nastavenie internetu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:64
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Toto je základná cesta pre všetky blogy. Pomocou značky %BLOG_ID% môžete lepšie zorganizovať adresárovú štruktúru. Cesta musí byť zakončená s / (lomítkom)."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:65
+msgid "The default setting should be %s"
+msgstr "Pôvodné nastavenie by malo byť  %s"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:69
+msgid "Enable upload quota check"
+msgstr "Povoliť kontrolu kvóty nahrávaných dát"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:71
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Malo by pracovať, pokiaľ je galéria pod blog.dir"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:75
+msgid "Enable zip upload option"
+msgstr "Povoliť nahrávanie ZIP archívov"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:77
+msgid "Allow users to upload zip folders."
+msgstr "Povoliť užívateľom nahrávanie zip archívov."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:81
+msgid "Enable import function"
+msgstr "Povoliť funkciu importu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:83
+msgid "Allow users to import images folders from the server."
+msgstr "Povoliť užívateľom import obrázkových súborov zo serveru."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:87
+msgid "Enable roles/capabilities"
+msgstr "Povoliť oprávnenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:89
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Povoliť užívateľom zmenu oprávnení pre ostatných autorov blogu."
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:68
+msgid "Width x Height"
+msgstr "Šírka x výška"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/core.php:208
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Upozornenie: Vzhľadom na nastavenie 'Memory Limit' na tomto serveri by ste nemali nahrávať obrázky väčšie ako <strong>%d x %d</strong> pixelov"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/ngg-db.php:266
+#: products/photocrati_nextgen/modules/ngglegacy/lib/ngg-db.php:267
+msgid "Album overview"
+msgstr "Prehľad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Nebola špecifikovaná žiadna nová značka!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Nebola špecifikovaná žiadna nová / stará značka!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Žiadna značka premenovaná."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:88
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Premenované značky &laquo;%1$s&raquo; na &laquo;%2$s&raquo;"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Neplatná nová značka!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Žiadne objekty (príspevok / stránka) neboli nájdené so zadanými starými značkami."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:141
+msgid "No tag merged."
+msgstr "Žiadna značka pripojená."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:143
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Spojené značky &laquo;%1$s&raquo; do &laquo;%2$s&raquo;. %3$s objektov bolo upravených."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:165
+msgid "No tag specified!"
+msgstr "Nebola špecifikovaná značka!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:188
+msgid "No tag deleted."
+msgstr "Žiadna značka nebola zmazaná."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:190
+msgid "%1s tag(s) deleted."
+msgstr "%1s značky zmazané."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:208
+msgid "No new slug(s) specified!"
+msgstr "Nebol špecifikovaný slug!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:220
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Počet nálepiek a slug-ov nesedí!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:247
+msgid "No slug edited."
+msgstr "Žiadny slug nebol upravený."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:249
+msgid "%s slug(s) edited."
+msgstr "%s slug(y) upravené."
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Zobraziť metadáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Fotoaparát (typ)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Ohnisková vzdialenosť"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:202
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget, ktorý zobrazuje RSS obrázkov pre NextGEN Gallery."
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:203
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:210
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:210
+msgid "Link to the main image feed"
+msgstr "Odkaz na hlavný feed obrázkov"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:19
+msgid "Show Media RSS icon"
+msgstr "Zobraziť ikonu Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:30
+msgid "Show the Media RSS link"
+msgstr "Zobraziť globálny odkaz Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:258
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Zobraziť prezentáciu "
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:259
+msgid "NextGEN Slideshow"
+msgstr "Prezentácia"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:23
+msgid "All images"
+msgstr "Všetky obrázky"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:73
+msgid "Add recent or random images from the galleries"
+msgstr "Pridať nedávne alebo náhodné obrázky z galérií "
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:74
+msgid "NextGEN Widget"
+msgstr "NextGEN Widget"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:29
+msgid "Original images"
+msgstr "Pôvodné obrázky"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:62
+msgid "Enable IE8 Web Slices"
+msgstr "Povoliť IE8 Web Slices"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:92
+msgid "All galleries"
+msgstr "Všetky galérie"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:95
+msgid "Only which are not listed"
+msgstr "Len tie, ktoré nie sú v zozname"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:98
+msgid "Only which are listed"
+msgstr "Len tie, ktoré sú v zozname"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:114
+msgid "Gallery IDs, separated by commas."
+msgstr "ID galérií, oddelené čiarkou."
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Zatiaľ neboli vytvorené galérie."
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:74
+msgid "The gallery ID=%s does not exist."
+msgstr "Galéria s ID=%s neexistuje."
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:105
+msgid "No album ID has been provided as parameter"
+msgstr "Žiadne ID albumu nebolo poskytnuté ako parameter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:113
+msgid "The album ID=%s does not exist."
+msgstr "Album s ID=%s neexistuje."
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:120
+msgid "Invalid MediaRSS command"
+msgstr "Nesprávny príkaz Media RSS (%s)."
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:15
+msgid "Select Gallery"
+msgstr "Vybrať galériu"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:40
+msgid "Limit"
+msgstr "Limit"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:223
+msgid "Remove featured image"
+msgstr "Odstrániť ilustračný obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:195
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:196
+msgid "Set featured image"
+msgstr "Nastaviť ilustračný obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:60
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:61
+msgid "Set NextGEN featured image"
+msgstr "Nastaviť NextGEN ilustračný obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:84
+msgid "90&deg; counter-clockwise"
+msgstr "90&deg; proti smeru hod. ručičiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:146
+msgid "Error. Not enough tags provided to rename or merge."
+msgstr "Chyba. Nie je dostatok značiek na premenovaie alebo zlúčenie."
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:107
+msgid "Gallery ID"
+msgstr "ID galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_create_page_field.php:3
+msgid "Main Page (no parent)"
+msgstr "Hlavná stránka (bez rodiča)"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:36
+msgid "Text for Media RSS link"
+msgstr "Text pre Media RSS odkaz"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/thumbnails-template.php:103
+msgid "These are maximum values"
+msgstr "Tieto hodnoty sú maximálne"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:47
+msgid "Tooltip text for Media RSS link"
+msgstr "Tooltip text pre Media RSS odkaz"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:50
+msgid "recently added"
+msgstr "naposledy pridané"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:68
+msgid "NextGEN Attach Interface"
+msgstr "NextGEN rozhranie pripojenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:142
+msgid "Sorry, NextGEN Gallery works only with a memory limit of 32MB or higher"
+msgstr "Prepáčte, NextGEN Galéria funguje len s nastavením 'Memory Limit' na 32 MB a vyššie"
+
+#. Description of the plugin
+msgid "The most popular gallery plugin for WordPress and one of the most popular plugins of all time with over 30 million downloads."
+msgstr "Najpopulárnejší plugin pre galériu pre WordPress a jeden z najpopulárnejších pluginov všetkých čias s viac ako 30 miliónov stiahnutí."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1140
+msgid "Go to the last page"
+msgstr "Prejsť na poslednú stránku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1133
+msgid "Go to the next page"
+msgstr "Prejsť na ďalšiu stránku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:661
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:831
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:153
+msgid "ID"
+msgstr "ID"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1122
+msgid "Current page"
+msgstr "Aktuálna strana"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1113
+msgid "Go to the previous page"
+msgstr "Ísť na predchádzajúcu stránku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1106
+msgid "Go to the first page"
+msgstr "Prejsť na prvú stranu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:663
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:834
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:278
+msgid "Description"
+msgstr "Popis"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:223
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:265
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:512
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:357
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:358
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:381
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:61
+msgid "Delete"
+msgstr "Vymazať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:93
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:500
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:91
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:181
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:295
+msgid "Size"
+msgstr "Veľkosť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:416
+msgid "Click to toggle"
+msgstr "Prepnúť zobrazenie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:171
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:215
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:238
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:17
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:20
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:19
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:22
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:10
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:13
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:614
+msgid "Cheatin&#8217; uh?"
+msgstr "Podvádzate, hm? :)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:172
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:285
+msgid "Add new gallery"
+msgstr "Pridať novú galériu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:445
+msgid "New Gallery"
+msgstr "Nová galéria"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:452
+msgid "Create a new , empty gallery below the folder"
+msgstr "Vytvoriť novú prázdnu galériu v adresári"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:456
+msgid "Allowed characters for file and folder names are"
+msgstr "Prípustné znaky pre názvy súborov a adresárov sú"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:202
+msgid "A failure occurred"
+msgstr "Došlo k zlyhaniu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:208
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:252
+msgid "Updated Successfully"
+msgstr "Úspešne aktualizované"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:226
+msgid "Album deleted"
+msgstr "Album bol vymazaný"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:433
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:505
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:56
+msgid "Edit Album"
+msgstr "Upraviť album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:483
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:593
+msgid "Select album"
+msgstr "Vyberte album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:485
+msgid "No album selected"
+msgstr "Nebol vybraný žiadny album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:517
+msgid "Add new album"
+msgstr "Pridať nový album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:519
+msgid "Add"
+msgstr "Pridať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:530
+msgid "Show / hide used galleries"
+msgstr "Ukázať / skryť používané galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:531
+msgid "Maximize the widget content"
+msgstr "Maximalizovať obsah widgetu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:532
+msgid "Minimize the widget content"
+msgstr "Minimalizovať obsah widgetu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:570
+msgid "Select gallery"
+msgstr "Vyberte galériu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:545
+msgid "Album ID"
+msgstr "ID stránky albumu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:558
+msgid "No album selected!"
+msgstr "Nebol vybraný žiadny album!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:623
+msgid "Album name:"
+msgstr "Názov albumu:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:629
+msgid "Album description:"
+msgstr "Popis albumu:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:635
+msgid "Select a preview image:"
+msgstr "Vyberte náhľadový obrázok:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:648
+msgid "Page Link to"
+msgstr "Odkaz stránky na"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:467
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:527
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:596
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:677
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:612
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:656
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:700
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:747
+msgid "OK"
+msgstr "OK"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:471
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:531
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:600
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:679
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:615
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:659
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:703
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:750
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:777
+msgid "Name"
+msgstr "Meno"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:229
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:779
+msgid "Page"
+msgstr "Stránka"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:129
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Myšou označte oblasť novej miniatúry"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:143
+msgid "Thumbnail updated"
+msgstr "Miniatúra upravená"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:148
+msgid "Error updating thumbnail"
+msgstr "Chyba pri aktualizovaní miniatúry"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:165
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Označte oblasť novej miniatúry z obrázku vľavo"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:44
+msgid "No valid gallery name!"
+msgstr "Neplatný názov galérie!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:55
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:83
+msgid "Directory"
+msgstr "Adresár"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:55
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "neexistuje. Vytvorte prosím najprv hlavný adresár galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Navštívte tento odkaz pokiaľ neviete, ako zmeniť prístupové práva:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:83
+msgid "is not writeable !"
+msgstr "nie je zapisovateľný!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:79
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:88
+msgid "Unable to create directory "
+msgstr "Nebolo možné vytvoriť adresár"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:92
+msgid "The server setting Safe-Mode is on !"
+msgstr "Safe-Mode na serveri je zapnutý! (PHP.INI)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:93
+msgid "If you have problems, please create directory"
+msgstr "Pokiaľ máte problémy, vytvorte prosím adresár"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:94
+msgid "and the thumbnails directory"
+msgstr "a adresár pre miniatúry"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:94
+msgid "with permission 777 manually !"
+msgstr "s právami 777 ručne!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:680
+msgid "Edit gallery"
+msgstr "Upraviť galériu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:631
+msgid "Database error. Could not add gallery!"
+msgstr "Chyba databázy. Galéria nemohla byť pridaná !"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:119
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:267
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:304
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:492
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:675
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:664
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:745
+msgid "Create new thumbnails"
+msgstr "Vytvoriť nové miniatúry"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:495
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Chyba : Nepodarilo sa aktualizovať databázu)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:502
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Chyba : Nepodarilo sa aktualizovať meta údaje)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:511
+msgid "(Error : Couldn't not find image)"
+msgstr "(Chyba : Nepodarilo sa nájsť obrázok)"
+
+#: nggallery.php:683
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Prepáčte, ale na prácu s NextGEN Gallery potrebujete administrátorské oprávnenie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/install.php:72
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery : Tabulky nemohli byť vytvorené, skontrolujte prosím nastavenia vašej databázy"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:107
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:272
+msgid "No images selected"
+msgstr "Neboli vybrané žiadne obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:115
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:268
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:300
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:493
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:645
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:729
+msgid "Resize images"
+msgstr "Zmeniť veľkosť obrázkov"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:125
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Chystáte sa spustiť hromadnú úpravu %s galérií \n"
+"\n"
+"'Cancel' pre zrušenie, 'OK' pre pokračovanie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:216
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:219
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:353
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:364
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:368
+msgid "Search Images"
+msgstr "Hľadať obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:264
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:490
+msgid "Bulk actions"
+msgstr "Hromadné akcie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:266
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:491
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:574
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:690
+msgid "Set watermark"
+msgstr "Nastaviť vodotlač"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:269
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:496
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:579
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:713
+msgid "Import metadata"
+msgstr "Importovať metadáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:270
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:494
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:569
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:687
+msgid "Recover from backup"
+msgstr "Obnoviť zo zálohy"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:276
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:509
+msgid "Apply"
+msgstr "Použiť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:248
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:357
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:380
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:60
+msgid "Edit"
+msgstr "Upraviť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:410
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:564
+msgid "No entries found"
+msgstr "Neboli nájdené žiadne záznamy"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:506
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:678
+msgid "Resize Images to"
+msgstr "Zmeniť veľkosť obrázkov na"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:519
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:691
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Šírka x výška (v pixeloch). Pomer strán bude zachovaný"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:570
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:722
+msgid "Width x height (in pixel)"
+msgstr "Šírka x výška (px)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:579
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:730
+msgid "Set fix dimension"
+msgstr "Nastaviť pevný rozmer"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:587
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:738
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorovať pomer strán, žiadne miniatúry nebudú orientované na výšku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:665
+msgid "Page ID"
+msgstr "ID stránky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:51
+msgid "Gallery not found."
+msgstr "Galéria nenájdená"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:58
+msgid "Sorry, you have no access here"
+msgstr "Prepáčte, sem prístup nemáte"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:280
+msgid "Copy image to..."
+msgstr "Kopírovať obrázok do..."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:284
+msgid "Move image to..."
+msgstr "Presunúť obrázok do..."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:288
+msgid "Add new tags"
+msgstr "Pridať nové značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:292
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:502
+msgid "Delete tags"
+msgstr "Zmazať značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:296
+msgid "Overwrite"
+msgstr "Prepísať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:309
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Chystáte sa spustiť hromadnú úpravu %s obrázkov \n"
+"\n"
+"'Cancel' pre zrušenie, 'OK' pre pokračovanie."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:343
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Výsledky hľadania pre &#8220;%s&#8221;"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:432
+msgid "Scan Folder for new images"
+msgstr "Nájsť v adresároch nové obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:437
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:522
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:574
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:24
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:495
+msgid "Delete images"
+msgstr "Zmazať obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:497
+msgid "Rotate images clockwise"
+msgstr "Otočiť obrázok v smere hod. ručičiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:498
+msgid "Rotate images counter-clockwise"
+msgstr "Otočiť obrázok proti smeru hod. ručičiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:499
+msgid "Copy to..."
+msgstr "Kopírovať do..."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:500
+msgid "Move to..."
+msgstr "Presunúť do..."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:501
+msgid "Add tags"
+msgstr "Pridať značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:503
+msgid "Overwrite tags"
+msgstr "Prepísať značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:516
+msgid "Sort gallery"
+msgstr "Usporiadať galériu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:297
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:299
+msgid "View"
+msgstr "Zobraziť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:308
+msgid "Meta"
+msgstr "Meta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:316
+msgid "Customize thumbnail"
+msgstr "Prispôsobiť miniatúru"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:317
+msgid "Edit thumb"
+msgstr "Upraviť náhľad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:325
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:326
+msgid "Rotate"
+msgstr "Otočiť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:338
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:339
+msgid "Recover"
+msgstr "Obnoviť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:599
+msgid "Enter the tags"
+msgstr "Vložte značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:634
+msgid "Select the destination gallery:"
+msgstr "Zvolte cieľovú galériu:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:832
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:158
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:299
+msgid "Thumbnail"
+msgstr "Miniatúra"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:834
+msgid "Alt &amp; Title Text"
+msgstr "Alternatívny text &amp; Titulok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:835
+msgid "Tags (comma separated list)"
+msgstr "Značky (oddeľujte čiarkou)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:48
+msgid "Sort order changed"
+msgstr "Poradie zobrazovania zmenené"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:121
+msgid "Sort Gallery"
+msgstr "Usporiadať galériu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:136
+msgid "Update Sort Order"
+msgstr "Aktualizovať poradie zobrazovania"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:141
+msgid "Back to gallery"
+msgstr "Späť do galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:149
+msgid "Presort"
+msgstr "Znovu zoradiť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:150
+msgid "Unsorted"
+msgstr "Nezoradené"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:153
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:274
+msgid "Alt/Title text"
+msgstr "Alternatívny text / názov"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:88
+msgid "deleted successfully"
+msgstr "úspešne zmazané"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:112
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operácia bola úspešná. Prosím, vymažte si cache v prehliadači."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:604
+msgid "Gallery deleted successfully "
+msgstr "Galéria bola úspešne zmazaná"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:681
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:684
+msgid "Rotate images"
+msgstr "Otočiť obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:709
+msgid "Pictures deleted successfully "
+msgstr "Obrázky boli úspešne zmazané"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:838
+msgid "Tags changed"
+msgstr "Značky boli zmenené"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:943
+msgid "New gallery page ID"
+msgstr "ID novej stránky galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:943
+msgid "created"
+msgstr "vytvorené"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1090
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 položka"
+msgstr[1] "%s položky"
+msgstr[2] "%s položiek"
+
+#. Plugin Name of the plugin
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:73
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:74
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:11
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:597
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:379
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:63
+msgid "NextGEN Gallery"
+msgid_plural "NextGen Galleries"
+msgstr[0] "NextGEN Galéria"
+msgstr[1] ""
+msgstr[2] ""
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:199
+msgid "No gallery"
+msgstr "Žiadna galéria"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:212
+msgid "Select &#187;"
+msgstr "Vybrať &#187;"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:15
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:262
+msgid "Show"
+msgstr "Ukázať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:263
+msgid "Hide"
+msgstr "Skryť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:268
+msgid "Image ID:"
+msgstr "ID obrázku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:282
+msgid "Alignment"
+msgstr "Zarovnanie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:289
+msgid "Center"
+msgstr "Do stredu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:301
+msgid "Full size"
+msgstr "Plná veľkosť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:303
+msgid "Singlepic"
+msgstr "Obrázok (singlepic)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:318
+msgid "Insert into Post"
+msgstr "Vložiť do príspevku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:329
+msgid "Save all changes"
+msgstr "Uložiť všetky zmeny"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:394
+msgid "Title:"
+msgstr "Názov:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:315
+msgid "Use as featured image"
+msgstr "Použiť ako ilustračný obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1129
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s z %2$s"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:433
+msgid "Create new page:"
+msgstr "Vytvoriť novú stránku:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:400
+msgid "Description:"
+msgstr "Popis:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:421
+msgid "Link to page:"
+msgstr "Odkaz na stránku:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:337
+msgid "Recover image from backup"
+msgstr "Obnoviť obrázok zo zálohy"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:307
+msgid "Show meta data"
+msgstr "Zobraziť meta dáta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:466
+msgid "200"
+msgstr "200"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:465
+msgid "100"
+msgstr "100"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:612
+msgid "Directory <strong>%s</strong> contains no pictures"
+msgstr "Adresár <strong>%s</strong> neobsahuje obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:603
+msgid "Directory <strong>%s</strong> doesn&#96;t exist!"
+msgstr "Adresár <strong>%s</strong> neexistuje!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:187
+msgid "Error while creating thumbnail."
+msgstr "Chyba pri vytváraní miniatúry."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:462
+msgid " 25"
+msgstr " 25"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:463
+msgid " 50"
+msgstr " 50"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:464
+msgid " 75"
+msgstr " 75"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:678
+msgid "%s picture successfully added"
+msgid_plural "%s pictures successfully added"
+msgstr[0] "%s obrázok pridaný"
+msgstr[1] "%s obrázky pridané"
+msgstr[2] "%s obrázkov pridaných"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:422
+msgid "Albums will link this gallery to the selected page"
+msgstr "Album priradí tuto galériu vybranej stránke"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:467
+msgid "All"
+msgstr "Všetko"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:168
+msgid "Alt & Title Text / Description"
+msgstr "Alt & nadpis text / popis"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:356
+msgid "Delete image"
+msgstr "Odstrániť obrázok"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:356
+msgid "Error while applying watermark to image."
+msgstr "Chyba pri použití vodoznaku na obrazok."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:240
+msgid "Error while resizing image."
+msgstr "Chyba pri zmene veľkosti obrázkov."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:322
+msgid "Error while rotating image."
+msgstr "Chyba počas otáčania obrazu."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:211
+msgid "Exclude ?"
+msgstr "Vylúčiť ?"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:639
+msgid "Gallery <strong>%s</strong> successfully created!"
+msgid_plural "Galleries <strong>%s</strong> successfully created!"
+msgstr[0] "Galéria <strong>%s</strong> úspešne vytvorená!"
+msgstr[1] "Galérie <strong>%s</strong> úspešne vytvorené!"
+msgstr[2] "Galérií <strong>%s</strong> úspešne vytvorených!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:406
+msgid "Gallery path:"
+msgstr "Cesta ku galérii"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:486
+msgid "Images per page:"
+msgstr "Obrázkov na stránku:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:427
+msgid "Preview image:"
+msgstr "Náhľad obrázku:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:667
+msgid "There are no pages to link to"
+msgstr "Nie su žiadne stránky na prepojenie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:27
+msgid "Welcome to NextGEN Gallery"
+msgstr "Vitajte v NextGEN Gallery"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:534
+msgid "After you create and select an album, you can drag and drop a gallery or another album into your new album below."
+msgstr "Keď vytvoríte a označíte album, môžete myšou pretiahnuť galériu alebo iný album do vášho nového albumu nižšie."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/slideshow/nextgen_basic_slideshow_settings_gallery_dimensions.php:23
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:53
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:184
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_dimensions.php:20
+msgid "Height"
+msgstr "Výška"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:155
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:111
+msgid "Ascending"
+msgstr "Vzostupne"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:471
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:664
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:412
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Author"
+msgstr "Autor"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:287
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:212
+msgid "Left"
+msgstr "Vľavo"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:291
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:212
+msgid "Right"
+msgstr "Vpravo"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:468
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "ISO"
+msgstr "ISO"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:192
+msgid "Top"
+msgstr "Hore"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:192
+msgid "Link target"
+msgstr "Cieľ odkazu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:80
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:111
+msgid "Overview"
+msgstr "Prehľad"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4044
+msgid "Could not calculate resized image dimensions"
+msgstr "Nedajú sa vypočítať rozmery upraveného obrázka"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2049
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:472
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:173
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:118
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Tags"
+msgstr "Značky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:93
+msgid "Network settings"
+msgstr "Nastavenie internetu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:200
+msgid "You do not have the correct permission"
+msgstr "Nemáte správne oprávnenie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:201
+msgid "Unexpected Error"
+msgstr "Neočakávaná chyba"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:4
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:3
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:3
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:470
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:778
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Title"
+msgstr "Nadpis:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:152
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:833
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:163
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+msgid "Filename"
+msgstr "Názov súboru"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:151
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+msgid "Image ID"
+msgstr "ID obrázku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:465
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:154
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Date/Time"
+msgstr "Dátum/Čas"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:156
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:111
+msgid "Descending"
+msgstr "Zostupne"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:220
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:88
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:65
+msgid "Picture"
+msgstr "Obrázok"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:118
+msgid "Categories"
+msgstr "Kategórie"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid "Reset settings"
+msgstr "Obnoviť nastavenia"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:212
+msgid "Float"
+msgstr "Obtekanie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:136
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2154
+msgid " mm"
+msgstr " mm"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:142
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2162
+msgid " sec"
+msgstr " s"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:146
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2166
+msgid "Fired"
+msgstr "S bleskom"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:146
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2166
+msgid "Not fired"
+msgstr "Bez blesku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:46
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:461
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Aperture"
+msgstr "Apertúra"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:462
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:487
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Credit"
+msgstr "Autor"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:463
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Camera"
+msgstr "Fotoaparát"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:464
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Caption"
+msgstr "Hlavička"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:466
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Copyright"
+msgstr "Copyright"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:467
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Focal length"
+msgstr "Ohnisková vzdialenosť"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:54
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:469
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Shutter speed"
+msgstr "Rýchlosť clony"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:473
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Subject"
+msgstr "Predmet"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:474
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Make"
+msgstr "Vykonať"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:475
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Edit Status"
+msgstr "Upraviť stav"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:476
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Category"
+msgstr "Kategória"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:477
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Keywords"
+msgstr "Kľúčové slová"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:478
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Date Created"
+msgstr "Dátum vytvorenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:479
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Time Created"
+msgstr "Čas vytvorenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:480
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Author Position"
+msgstr "Pozícia autora"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:481
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "City"
+msgstr "Mesto"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:482
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Location"
+msgstr "OrtUmiestnenie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:483
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Province/State"
+msgstr "Štát"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:484
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Country code"
+msgstr "Kód štátu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:485
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Country"
+msgstr "Krajina"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:486
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Headline"
+msgstr "Záhlavie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:488
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Source"
+msgstr "Zdroj"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:489
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Copyright Notice"
+msgstr "Autorské práva"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:490
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Contact"
+msgstr "Kontakt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:491
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Last modified"
+msgstr "Posledná úprava"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:492
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Program tool"
+msgstr "Program"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:493
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Format"
+msgstr "Šírka obrázka"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:494
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Image Width"
+msgstr "Šírka obrázku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:495
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Image Height"
+msgstr "Výška obrázku"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:496
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2442
+msgid "Flash"
+msgstr "Flash (blesk?)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/multisite.php:23
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:5521
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Prepáčte, ale váš úloožný priestor je plný. Prosím, najprv odstráňte niektoré zo súborov."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:1467
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Prepáčte, musíte mať možnosť spravovať galérie"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:26
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:30
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:26
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:51
+msgid "Back"
+msgstr "Späť"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Height:"
+msgstr "Výška:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Width:"
+msgstr "Šírka:"
+
+#: products/photocrati_nextgen/modules/nextgen_settings/module.nextgen_settings.php:77
+msgid "Related Images"
+msgstr "Súvisiace obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "Refresh preview image"
+msgstr "Obnoviť náhľad obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:745
+msgid "Opacity:"
+msgstr "Nepriehľadnosť:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:745
+msgid "Text:"
+msgstr "Text:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:745
+msgid "Font Color:"
+msgstr "Farba písma:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:745
+msgid "Font Size:"
+msgstr "Veľkosť písma:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "How will you generate a watermark?"
+msgstr "Ako budete generovať vodoznak?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:745
+msgid "Font Family:"
+msgstr "Rodina písma:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:735
+msgid "Image URL:"
+msgstr "URL adresa obrázku:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:707
+msgid "Using Text"
+msgstr "Použitie textu"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:707
+msgid "Using an Image"
+msgstr "Použitie obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:681
+msgid "Watermarks"
+msgstr "Vodoznak"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:528
+msgid "Styles"
+msgstr "Štýly"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:450
+msgid "Reset Options"
+msgstr "Obnoviť možnosti"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Maximum image count"
+msgstr "Maximálny počet obrázkov"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Quality:"
+msgstr "Kvalita:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:330
+msgid "Miscellaneous"
+msgstr "Zmiešaný"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:95
+msgid "Image Options"
+msgstr "Možnosti obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:26
+msgid "Code"
+msgstr "Kód"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:390
+#: products/photocrati_nextgen/modules/nextgen_other_options/module.nextgen_other_options.php:76
+msgid "Other Options"
+msgstr "Iné možnosti"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2056
+msgid "Random Images"
+msgstr "Náhodné obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1863
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1865
+msgid "We cannot display this gallery"
+msgstr "Nemôžeme zobraziť túto galériu"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/module.nextgen_gallery_display.php:352
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/module.nextgen_gallery_display.php:439
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:20
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:419
+msgid "Gallery Settings"
+msgstr "Nastavenie galérie"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:798
+msgid "Source not compatible with selected display type"
+msgstr "Zdroj nie je kompatibilný s vybraným typom zobrazenia"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_templates/package.module.nextgen_basic_templates.php:173
+msgid "No template selected"
+msgstr "Nebola vybraná šablóna"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:118
+msgid "Display type"
+msgstr "Zobraziť typ"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:97
+msgid "Maximum number of tags"
+msgstr "Maximálny počet značiek"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:200
+msgid "Display watermark"
+msgstr "Zobraziť vodoznak"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:192
+msgid "Blank"
+msgstr "Prázdne"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:188
+msgid "Link"
+msgstr "Odkaz"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/slideshow/nextgen_basic_slideshow_settings_gallery_dimensions.php:15
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:65
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:184
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_dimensions.php:13
+msgid "Width"
+msgstr "Šírka"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:478
+msgid "Slideshow link text"
+msgstr "Text odkazu prezentácie"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:468
+msgid "Show slideshow link"
+msgstr "Zobraziť odkaz prezentácie"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:454
+msgid "Add Hidden Images"
+msgstr "Pridať skryté obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:444
+msgid "# of columns"
+msgstr "počet stĺpcov"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:434
+msgid "Images per page"
+msgstr "Obrázkov na stránku"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:397
+msgid "Thumbnail link text"
+msgstr "Text odkazu miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:387
+msgid "Show thumbnail link"
+msgstr "Zobraziť odkaz miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:363
+msgid "Interval"
+msgstr "Interval"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+msgid "File Content:"
+msgstr "Obsah súboru:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "(Hide Customization Settings)"
+msgstr "(Skryť nastavenia prispôsobenia)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "(Show Customization Settings)"
+msgstr "(Zobraziť nastavenia prispôsobenia)"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:434
+msgid "0 will display all images at once"
+msgstr "0 zobrazí všetky obrázky naraz"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Add MediaRSS link?"
+msgstr "Pridať MediaRSS odkaz?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "Adjust Thumbnail Quality?"
+msgstr "Upraviť kvalitu miniatúry?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/styling_tab.php:42
+msgid "All stylesheets must contain a <a href='#' onclick='%s'>file header</a>"
+msgstr "Všetky stylesheet  musia obsahovať <a href='#' onclick='%s'>Hlavičku súboru</a>"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Backup the original images?"
+msgstr "Zálohovať pôvodné obrázky?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Clear image cache"
+msgstr "Vymazať vyrovnávaciu pamäť obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "Default thumbnail dimensions:"
+msgstr "Predvolené rozmery miniatúry:"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:204
+msgid "Display reflection"
+msgstr "Zobraziť odraz"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+msgid "Enable custom CSS"
+msgstr "Povoliť vlastné CSS"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Heading for related images"
+msgstr "Nadpis pre súvisiace obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "Ignore the aspect ratio, no portrait thumbnails?"
+msgstr "Ignorovať pomer strán, žiadne miniatúry nebudú orientované na výšku?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:377
+msgid "Maximum dimensions"
+msgstr "Maximálne rozmery"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:444
+msgid "Number of columns to display"
+msgstr "Počet stĺpcov na zobrazenie"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "Offset:"
+msgstr "Odsadenie:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:42
+msgid "Only apply to NextGEN and WordPress images"
+msgstr "Aplikovať len na NextGEN a WordPress obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:41
+msgid "Only apply to NextGEN images"
+msgstr "Aplikovať len na NextGEN obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Permalink slug"
+msgstr "Trvalý odkaz slug"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/styling_tab.php:39
+msgid "Place any custom stylesheets in <strong>wp-content/ngg_styles</strong>"
+msgstr "Vlastní stylesheet uložte do <strong>wp-content/ngg_styles</strong>"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid ""
+"Reset all options to default settings?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed."
+msgstr ""
+"Obnoviť všetky možnosti na predvolené nastavenia?\n"
+"\n"
+"Vyberte [Zrušiť] pre zastavenie, [OK] pre pokračovanie."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Show Related Images on Posts?"
+msgstr "Zobraziť súvisiace obrázky k článkom?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "Size List"
+msgstr "Zoznam veľkostí"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "This is the maximum limit of images that NextGEN will restrict itself to querying"
+msgstr "Toto je maximálny limit obrázkov, ktoré bude NextGEN spracovávať"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:619
+msgid "Thumbnail Options"
+msgstr "Možnosti miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:43
+msgid "Try to apply to all images"
+msgstr "Skusiť použiť na všetky obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:44
+msgid "Try to apply to all images that link to image files"
+msgstr "Pokúsiť sa aplikovať na všetky obrázky, odkazujíce na obrázkový súbor"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:458
+msgid "Use imagebrowser effect"
+msgstr "Použiť efekt prehliadača obrázkov"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:37
+msgid "What must the lightbox be applied to?"
+msgstr "Na čo má byť aplikovaný lightbox?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "When enabled, adds a MediaRSS link to your header. Third-party web services can use this to publish your galleries"
+msgstr "Ak je povolené, pridá MediaRSS odkaz do hlavičky. Webovské služby tretích strán to môžu použiť k publikovaniu vašich galérií"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Where galleries and their images are stored"
+msgstr "Kde sú uložené galérie a ich obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+msgid "You could edit this file if it were writable"
+msgstr "Môžete editovať tento súbor ak je zapisovateľný"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:5539
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:5683
+msgid "Invalid image file. Acceptable formats: JPG, GIF, and PNG."
+msgstr "Nesprávny formát obrázku. Podporovaný formát: JPG, GIF, a PNG."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "Preview of saved settings:"
+msgstr "Náhľad uložených nastavení:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "Please note: You can only activate the watermark under Manage Gallery. This action cannot be undone."
+msgstr "Upozornenie: Vodoznak môžete aktivovať len pod Správou galérie. Táto akcia sa nedá vrátiť späť."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:733
+msgid "An absolute or relative (to the site document root) file system path or an HTTP url"
+msgstr "Absolútna alebo relatívna  (na koreňový adresár dokumentu) systémová cesta k súboru alebo HTTP adresa"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:731
+msgid "An absolute or relative (to the site document root) file system path"
+msgstr "Absolútna alebo relatívna (na koreňový adresár dokumentu) systémová cesta k súboru"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "List of default sizes used for thumbnails and images"
+msgstr "Zoznam predvolených veľkostí použítých pre miniatúry a obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "When generating thumbnails, what image quality do you desire?"
+msgstr "Akú kvalitu obrázkov chcete pri generovaní miniatúr?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "Set fix dimension?"
+msgstr "Nastaviť pevné rozmery?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:624
+msgid "When generating thumbnails, what image dimensions do you desire?"
+msgstr "Aké rozmery obrázku chcete dosiahnuť pri generovaní miniatúr?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+msgid "Changes you make to the contents will be saved to"
+msgstr "Zmeny, ktoré urobíte s obsahom, sa uložia do"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "(Hide Customization Options)"
+msgstr "(Skryť Možnosti prispôsobenia)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+msgid "(Show Customization Options)"
+msgstr "(Zobraziť Možnosti prispôsobenia)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:532
+msgid "What stylesheet would you like to use?"
+msgstr "Akú šablónu so štýlmi chcete použiť?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:502
+msgid "Roles & Capabilities"
+msgstr "Role & Možnosti"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid "Replace all existing options and gallery options with their default settings"
+msgstr "Obnoviť všetky existujúce možnosti a možnosti galérie do ich predvolených nastavenií"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Note: This limit will not apply to slideshow widgets or random galleries if/when those galleries specify their own image limits"
+msgstr "Poznámka: Tento limit neplatí pre prezentáciu widgetov alebo náhodných galérií, ak/keď týmto galériám určite svoje vlastné limity obrázkov"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid ""
+"Completely clear the NextGEN cache of all image modifications?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed."
+msgstr ""
+"Kompletne vymazať vyrovnávaciu pamäť NextGEN so všetkými úpravami obrázkov?\n"
+"\n"
+"Vyberte [Zrušiť] pre zastavenie, [OK] pre pokračovať."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "NextGEN hides its gallery displays in feeds other than MediaRSS. This enables image galleries in feeds."
+msgstr "NextGEN skryje zobrazenie galérie v informačných kanáloch iných ako MediaRSS. Toto umožňuje zobraziť obrázkové galérie v informačných kanáloch."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Display galleries in feeds"
+msgstr "Zobraziť galérie v informačných kanáloch"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:267
+msgid "Lightbox Effects"
+msgstr "Lightbox efekty"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:42
+msgid "Javascript URL"
+msgstr "Javascript URL adresa"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:34
+msgid "Stylesheet URL"
+msgstr "URL adresa šablóny so štýlmi"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/templates/alt_view_link_text.php:15
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/templates/return_link_text.php:15
+msgid "link text"
+msgstr "text odkazu"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2063
+msgid "Recent Images"
+msgstr "Najnovšie obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/module.nextgen_gallery_display.php:438
+msgid "NextGEN Gallery & Album Settings"
+msgstr "NextGen galéria & Nastavenia albumov"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:271
+msgid "Images tagged &quot;%s&quot;"
+msgstr "Obrázky sú označkované &quot;%s&quot;"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:208
+msgid "Crop thumbnail"
+msgstr "Orezanie minuatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:192
+msgid "Parent"
+msgstr "Nadradené"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/module.nextgen_basic_gallery.php:386
+msgid "NextGEN Basic Slideshow"
+msgstr "NextGEN Basic Slideshow"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/module.nextgen_basic_gallery.php:370
+msgid "NextGEN Basic Thumbnails"
+msgstr "NextGEN Basic Thumbnails"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1916
+msgid " [<a href=\"%s\">See image gallery at %s</a>] "
+msgstr "[<a href=\"%s\">Pozrite si galériu obrázkov na %s</a>]"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "After images are uploaded, they will be resized to the above dimensions and quality"
+msgstr "Obrázky budú po nahratí zmenené na vyššie nastavený rozmer a kvalitu"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+msgid "Alt/Title Text"
+msgstr "Alt/Text nadpisu"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Automatically resize images after upload"
+msgstr "Po nahratí automaticky zmeniť veľkosť obrázkom"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2557
+msgid "Browse images without reloading the page."
+msgstr "Prezeranie obrázkov bez opätovného načítania stránky."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Delete Image Files?"
+msgstr "Zmazať súbory obrázkov?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Gallery path does not exist and could not be created"
+msgstr "Cesta galérie neexistuje a nie je ju možné vytvoriť"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:454
+msgid "If pagination is used this option will show all images in the modal window (Thickbox, Lightbox etc.) This increases page load."
+msgstr "Ak sa používa stránkovanie, táto možnosť bude zobrazovať všetky obrázky v modálnom okne (Thickbox, Lightbox atď.) To predlžuje načítanie stránky."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "It is recommended that your images be resized to be web friendly"
+msgstr "Je odporučené, aby obrázky mali veľkosť vhodnú pre web"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Maximum # of related images to display"
+msgstr "Maximálny počet súvisiacich obrázkov, ktoré sa majú zobraziť"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/module.nextgen_basic_imagebrowser.php:158
+msgid "NextGEN Basic ImageBrowser"
+msgstr "NextGEN Basic ImageBrowser"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/module.nextgen_basic_singlepic.php:158
+msgid "NextGEN Basic SinglePic"
+msgstr "NextGEN Basic SinglePic"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/module.nextgen_basic_tagcloud.php:176
+msgid "NextGEN Basic TagCloud"
+msgstr "NextGEN Basic TagCloud"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:377
+msgid "Certain themes may allow images to flow over their container if this setting is too large"
+msgstr "Pokiaľ je toto nastavenie príliš veľké, niekteré témy dovoľujú obrázkom pretiecť cez svoj kontejnér"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:192
+msgid "Self"
+msgstr "Sám"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Sort in what direction?"
+msgstr "V akom poradí zoradiť?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:118
+msgid "The display type that the tagcloud will point its results to"
+msgstr "Typ zobrazenia, na ktorý bude odkazovať oblak značiek"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_templates/package.module.nextgen_basic_templates.php:47
+msgid "Use a legacy template when rendering (not recommended)."
+msgstr "Použiť staršiu šablónu pri vykresľovaní (neodporúča sa)."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "What should images be resized to?"
+msgstr "Na akú veľkosť majú byť zmenené obrázky?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "What's the default sorting method?"
+msgstr "Aká je predvolená metóda triedenia?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:458
+msgid "When active each image in the gallery will link to an imagebrowser display and lightbox effects will not be applied."
+msgstr "Ak je aktívny, bude každý obrázok v galérii spojený s prehliadačom obrázkov a lightbox efekt nebude použitý."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "When enabled, image files will be removed after a Gallery has been deleted"
+msgstr "Ak je povolené, budú súbory obrázkov vymazané pri vymazaní galérie"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "When enabled, related images will be appended to each post by matching the posts tags/categories to image tags"
+msgstr "Ak je povolené, budú ku každému článku pridané súvisiace obrázky, pri ktorých budú zodpovedajúce značky/kategórie"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Where would you like galleries stored?"
+msgstr "Kde chcete mať galérie uložené?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "How should related images be matched?"
+msgstr "Ako by sa mali priradiť súvisiace obrázky?"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:786
+msgid "Moved %1$s picture(s) to gallery: %2$s ."
+msgstr "Skopírovaných %1$s obrázok(ov) do galérie: %2$s ."
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "Close"
+msgstr "Zatvoriť"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:845
+msgid "Display galleries as"
+msgstr "Zobraz galérie ako"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:845
+msgid "How would you like galleries to be displayed?"
+msgstr "Ako chcete mať zobrazené galérie?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:845
+msgid "Galleries per page"
+msgstr "Galérie na stránku"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:854
+msgid "Items per page"
+msgstr "Položky na stránku"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:854
+msgid "Maximum number of galleries or sub-albums to appear on a single page"
+msgstr "Maximálny počet galérií alebo pod-albumov k zobrazeniu na jednej stránke"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2042
+msgid "Albums"
+msgstr "Albumy"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:64
+msgid "Fancybox"
+msgstr "Fancybox"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:118
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:55
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:81
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:204
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/styling_tab.php:17
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/thumbnail_options_tab.php:47
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php:24
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_radio.php:24
+msgid "No"
+msgstr "Nie"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:117
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:770
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:48
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:74
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:197
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/styling_tab.php:14
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/thumbnail_options_tab.php:40
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php:16
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_radio.php:16
+msgid "Yes"
+msgstr "Áno"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Full Size"
+msgstr "Plná velkosť"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Fit to Screen"
+msgstr "Prispôsobiť obrazovke"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:666
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/default-view.php:64
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Obrázok"
+msgstr[1] ""
+msgstr[2] ""
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:31
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:67
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/default-view.php:66
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "of"
+msgstr "z"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:221
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:75
+msgid "L O A D I N G"
+msgstr "N A H R Á V A M"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:285
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:53
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:212
+msgid "None"
+msgstr "Žiadne"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2624
+#: products/photocrati_nextgen/modules/nextgen_basic_templates/package.module.nextgen_basic_templates.php:46
+msgid "Default"
+msgstr "Predvolene"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:691
+msgid "Average"
+msgstr "Priemer"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:222
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:29
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:75
+msgid "Click to Close"
+msgstr "Zatvorte kliknutím"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:630
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:401
+msgid "Upload Images"
+msgstr "Nahrať obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:113
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:360
+msgid "Add Gallery / Images"
+msgstr "Pridať galériu / obrázky"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:82
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:117
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:474
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:636
+msgid "Manage Albums"
+msgid_plural "Albums"
+msgstr[0] "Spravovanie albumov"
+msgstr[1] ""
+msgstr[2] ""
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2586
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:196
+msgid "Image quality"
+msgstr "Kvalita obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2557
+msgid "Enable AJAX pagination"
+msgstr "Zapnúť AJAX stránkovanie"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:87
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:71
+msgid "Shutter"
+msgstr "Shutter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/thumbnails-template.php:76
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:97
+msgid "Custom"
+msgstr "vlastný"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/album-compact.php:63
+#: products/photocrati_nextgen/modules/ngglegacy/view/album-extend.php:31
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact/default-view.php:41
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended.php:31
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended/default-view.php:31
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact.php:41
+msgid "Photos"
+msgstr "fotiek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:29
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:33
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:29
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:59
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Next"
+msgstr "Ďalej"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:1100
+msgid "Saved successfully"
+msgstr "Úspešne uložené"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:691
+msgid "First Image"
+msgstr "Prvý obrázok"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:687
+msgid "Percent"
+msgstr "Percentá"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:687
+msgid "Gallery width"
+msgstr "Šírka galérie"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2588
+msgid "Image watermark"
+msgstr "Vodoznak obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:54
+msgid "In Progress..."
+msgstr "Prebieha ..."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:79
+msgid "Upload complete"
+msgstr "Nahrávanie dokončené"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:52
+msgid "Importing gallery"
+msgstr "Importovanie galérie"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2035
+msgid "Galleries"
+msgstr "Galérie"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Select a Gallery"
+msgstr "Vybrať galériu"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Slug"
+msgstr "Slug"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:217
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:226
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:92
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:110
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:297
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:662
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:12
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_media_library.php:2
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galéria"
+msgstr[1] ""
+msgstr[2] ""
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:83
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:119
+msgid "Manage Tags"
+msgstr "Správa značiek"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:191
+msgid "Displayed gallery does not exist"
+msgstr "Zobrazená galéria neexistuje"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:158
+msgid "Missing parameters"
+msgstr "Chýbajúce parametry"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:142
+msgid "Album: %s"
+msgstr "Album: %s"
+
+#: nggallery.php:553
+msgid "Every %d seconds"
+msgstr "Každých %d sekúnd"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:687
+msgid "(optional)"
+msgstr "(voliteľné)"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:262
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:284
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:335
+msgid "An unexpected error occured."
+msgstr "Došlo k neočakávanej chybe."
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:500
+msgid "Attach NextGEN Gallery to Post"
+msgstr "Pripojiť NextGEN Galériu k článku"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:223
+msgid "Directory does not exist."
+msgstr "Adresár neexistuje."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:74
+msgid "Done! Successfully imported {count} images. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "Hotovo! Úspešne importované obrázky {count}. <a href=\"%s\" target=\"_blank\">Spravovať galériu</a>"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:144
+msgid "Gallery: %s"
+msgstr "Galéria: %s"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Import %d image(s)"
+msgstr "Importovať %d obrázok(y)"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:194
+msgid "Invalid request"
+msgstr "Neplatná požiadavka"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:266
+msgid "No folder specified"
+msgstr "Priečinok nebol vybraný"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:349
+msgid "Not a valid notice name"
+msgstr "Neplatný názov oznámenia"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2581
+msgid "Overriding the image settings will create an additional set of images"
+msgstr "Prepísanie nastavení obrázku vytvorí ďalšiu sadu obrázkov"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:687
+msgid "Pixels"
+msgstr "Pixely"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:79
+msgid "Shutter Reloaded"
+msgstr "Závierka obnovená"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:839
+msgid "Sort or Exclude Images"
+msgstr "Zoradiť alebo vylúčiť obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2568
+msgid "Thumbnail crop"
+msgstr "Orezanie miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2567
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:184
+msgid "Thumbnail dimensions"
+msgstr "Rozmery miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2587
+msgid "Image crop"
+msgstr "Orezanie obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:18
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_media_library.php:4
+msgid "Create a new gallery"
+msgstr "Vytvor novú galériu"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Select images"
+msgstr "Vyber obrázky"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import 1 image"
+msgstr "vložiť 1 obrázok"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import %s images"
+msgstr "Vložiť %s obrázky/ov"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import Images into NextGen Gallery"
+msgstr "Vložiť obrázky do NextGen Gallery"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:11
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:12
+msgid "Import Folder"
+msgstr "Vložiť zložku"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Loading..."
+msgstr "Načítavanie..."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/module.nextgen_basic_album.php:216
+msgid "NextGEN Basic Compact Album"
+msgstr "NextGEN Basic Compact Album"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/module.nextgen_basic_album.php:232
+msgid "NextGEN Basic Extended Album"
+msgstr "NextGEN Basic Extended Album"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:858
+msgid "Enable breadcrumbs"
+msgstr "Povoliť mininavigácie"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:687
+msgid "An empty or 0 setting will make the gallery full width"
+msgstr "Prázdne alebo nastavenie 0 spôsobí, že galéria bude na celú šírku"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2566
+msgid "Override thumbnail settings"
+msgstr "Prepísať nastavenia miniatúry"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "0 images were uploaded"
+msgstr "0 obrázkov bolo nahratých"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "Next &gt;"
+msgstr "Ďalšie &gt;"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "&lt; Prev"
+msgstr "&lt; Predchádzajúce"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:829
+msgid "No display type selected"
+msgstr "Nie je vybratý typ zobrazenia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:81
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:115
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:199
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:633
+msgid "Manage Galleries"
+msgid_plural "Manage Galleries"
+msgstr[0] "Správa galérií"
+msgstr[1] ""
+msgstr[2] ""
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:617
+msgid "NextGEN Gallery - Attach To Post"
+msgstr "NextGEN Gallery - Pripojiť k článku"
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:326
+msgid "Invalid Displayed Gallery"
+msgstr "Nesprávne zobrazená galéria"
+
+#: nggallery.php:371
+msgid "NextGEN Gallery %s is incompatible with this version of NextGEN Pro. Please update NextGEN Pro to version %s or higher to restore NextGEN Pro functionality."
+msgstr "NextGEN Galéria %s nie je kompatibilná s touto verziou NextGEN Pro. Prosím aktualizujte NextGEN Pro na verziu %s alebo vyššiu pre obnovenie funkčnosti NextGEN Pro."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:105
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:131
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:296
+msgid "No gallery name specified"
+msgstr "Nie je zadaný názov galérie"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2581
+msgid "Override image settings"
+msgstr "Prepísať nastavenia obrázku"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:229
+msgid "No directory specified."
+msgstr "Nie je zadaný žiadny adresár."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Please make a selection to continue"
+msgstr "Ak chcete pokračovať, vykonajte výber"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "1 image was uploaded successfully. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "1 obrázok bol úspešne nahratý. <a href=\"%s\" target=\"_blank\">Spravovať galériu</a>"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:144
+msgid "Failed to extract images from ZIP"
+msgstr "Nepodarilo sa extrahovať obrázky zo ZIP súboru"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:162
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:309
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:326
+msgid "Image generation failed"
+msgstr "Generovanie obrázku zlyhalo"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:226
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:232
+msgid "No permissions to browse folders. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Nemáte povolenia na prezeranie priečinkov. Pokúste sa obnoviť stránku alebo zabezpečiť, aby Váš používateľský účet mal dostatočné role/privilégiá."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:257
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:269
+msgid "No permissions to import folders. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Nemáte povolenia na importovanie priečinkov. Pokúste sa obnoviť stránku alebo zabezpečiť, aby Váš používateľský účet mal dostatočné role/privilégiá."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:94
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:178
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:341
+msgid "No permissions to upload images. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Nemáte povolenia na nahratie obrázkov. Pokúste sa obnoviť stránku alebo zabezpečiť, aby Váš používateľský účet mal dostatočné role/privilégiá."
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2566
+msgid "This does not affect existing thumbnails; overriding the thumbnail settings will create an additional set of thumbnails. To change the size of existing thumbnails please visit 'Manage Galleries' and choose 'Create new thumbnails' for all images in the gallery."
+msgstr "Toto nemá vplyv na existujúce miniatúry; prepísanie nastavení miniatúr vytvorí ďalšiu sadu miniatúr. Ak chcete zmeniť veľkosť existujúcich miniatúr, navštívte stránku \"Správa galérií\" a vyberte \"Vytvoriť nové miniatúry\" pre všetky obrázky v galérii."
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Táto vlastnosť vyžaduje inline rámčeky. Buď máte Inline rámčeky zablokované, alebo ich Váš prehliadač nepodporuje."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "{count} images were uploaded successfully. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "{count} obrázky boli úspešne nahraté. <a href=\"%s\" target=\"_blank\">Spravovať galériu</a>"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "No entities to display for this source"
+msgstr "Žiadne položky na zobrazenie pre tento zdroj"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Sets an SEO-friendly name to this gallery for URLs. Currently only in use by the Pro Lightbox"
+msgstr "Nastavuje pre túto galériu vhodný SEO názov pre URL adresy. Momentálne ho používa iba Pro Lightbox"

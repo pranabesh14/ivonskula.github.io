@@ -1,0 +1,100 @@
+# Translation of Plugins - WP Add Mime Types - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - WP Add Mime Types - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-28 19:16:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - WP Add Mime Types - Stable (latest release)\n"
+
+#: includes/network-admin.php:134 includes/admin.php:142
+msgid "Enable to debug output for file types recognized by WordPress when a file is uploaded by the media. <br/>* By enabling both this option and the \"Enable the attempt to determine the real file type of a file by WordPress core.\", the file type is displayed if it is uploaded from Media.<br/>* PLEASE keep in mind that a file uploads are stopped while they are being processed if the both of two options are enabled. Therefore, be sure to disable this debugging option after debugging."
+msgstr "Włącz debugowanie danych wyjściowych dla typów plików rozpoznawanych przez WordPress, gdy plik jest przesyłany przez bibliotekę mediów. <br/>* Włączając zarówno tę opcję, jak i opcję \"Włącz próbę określenia rzeczywistego typu pliku przez rdzeń WordPressa.\", typ pliku jest wyświetlany, jeśli został przesłany z bibliotekę mediów. <br/> * PROSZĘ pamiętać, że przesyłanie plików jest zatrzymywane podczas przetwarzania, jeśli obie opcje są włączone. Dlatego należy upewnić się, że po debugowaniu ta opcja została wyłączona."
+
+#: wp-add-mime-types.php:138
+msgid "WordPress recognizes that the file type is ["
+msgstr "WordPress rozpoznaje, że typ pliku to ["
+
+#: includes/network-admin.php:130 includes/admin.php:138
+msgid "Enable to sanitize the multiple file extensions within the filename by WordPress core."
+msgstr "Włącz sanityzację wielu rozszerzeń plików w nazwie pliku przez rdzeń WordPressa."
+
+#: includes/network-admin.php:126 includes/admin.php:134
+msgid "Enable the attempt to determine the real file type of a file by WordPress core."
+msgstr "Włącz próbę określenia rzeczywistego typu pliku przez rdzeń WordPressa."
+
+#: includes/network-admin.php:121 includes/admin.php:128
+msgid "* The plugin avoids some security checks by WordPress core. If you do not want to avoid them, please turn on the following setting."
+msgstr "* Wtyczka pozwala uniknąć niektórych kontroli zabezpieczeń przeprowadzanych przez rdzeń WordPressa. Jeśli nie chcesz ich unikać, włącz następujące ustawienie."
+
+#: includes/network-admin.php:120 includes/admin.php:127
+msgid "Security Options"
+msgstr "Opcje zabezpieczeń"
+
+#: includes/network-admin.php:141 includes/admin.php:149
+msgid "* Ignore to the right of \"#\" on a line. "
+msgstr "* Ignoruj po prawej stronie \"#\" w linii."
+
+#: includes/network-admin.php:140 includes/admin.php:148
+msgid "* About the mime type value for the file extension, please search \"mime type [file extension name] using a search engine.<br/>Ex. epub = application/epub+zip<br/>Reference: <a href=\"http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">Media Types on the Internet Assigned Numbers Authority (IANA)</a><br/>* If the added mime type does not work, please deactivate other mime type plugins or the setting of other mime type plugins."
+msgstr "* Aby dowiedzieć się jaki typ MIME ma dane rozszerzenie pliku, proszę wyszukać \"mime type [nazwa rozszerzenia pliku]\" za pomocą wyszukiwarki. <br/>Np. epub = application/epub+zip<br/>Odnośnik: <a href=\"http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">Media Types on the Internet Assigned Numbers Authority (IANA)</a><br/>* Jeśli dodany typ MIME nie działa, proszę spróbować wyłączyć inne wtyczki związane z typem MIME lub sprawdzić ich ustawienia."
+
+#: includes/network-admin.php:12 includes/network-admin.php:71
+msgid "WP Add Mime Types Admin Settings for Network Administrator"
+msgstr "Ustawienia WP Add Mime Types w sieci witryn."
+
+#: includes/admin.php:165
+msgid "* This is for  multisite network administrators and site administrators.<br/> The following values are disabled after multisite function was enabled."
+msgstr "* Opcja przeznaczona dla administratorów sieci witryn i administratorów witryn. <br/> Następujące wartości są wyłączone po włączeniu sieci witryn."
+
+#: includes/admin.php:164
+msgid "Past Add Values before Multisite function was enabled."
+msgstr "Wcześniej dodane wartości przed włączeniem sieci witryn."
+
+#: includes/admin.php:129 includes/admin.php:150
+msgid "* The site administrator cannot add the value for mime type because the multisite is enabled. <br/>Please contact the multisite administrator if you would like to add the value."
+msgstr "* Administrator witryny nie może dodać wartości typu MIME, ponieważ witryna znajduje się w sieci witryn.<br/>Skontaktuj się z administratorem sieci witryn, aby coś dodać."
+
+#. Author URI of the plugin
+msgid "http://kitaney-wordpress.blogspot.jp/"
+msgstr "http://kitaney-wordpress.blogspot.jp/"
+
+#. Author of the plugin
+msgid "Kimiya Kitani"
+msgstr "Kimiya Kitani"
+
+#. Description of the plugin
+msgid "The plugin additionally allows the mime types and file extensions to WordPress."
+msgstr "Wtyczka zezwala na używanie dodatkowych typów MIME i rozszerzeń plików w WordPressie."
+
+#. Plugin Name of the plugin
+msgid "WP Add Mime Types"
+msgstr "WP Add Mime Types"
+
+#: includes/network-admin.php:149 includes/admin.php:178
+msgid "Save"
+msgstr "Zapisz"
+
+#: includes/network-admin.php:139 includes/admin.php:147
+msgid "Add Values"
+msgstr "Dodaj wartości"
+
+#: includes/network-admin.php:77 includes/admin.php:84
+msgid "List of allowed mime types and file extensions by WordPress"
+msgstr "Lista dozwolonych typów MIME i rozszerzeń plików według WordPressa"
+
+#: includes/network-admin.php:68 includes/admin.php:75
+msgid "Updated"
+msgstr "Zaktualizowano"
+
+#: includes/network-admin.php:12 includes/admin.php:5
+msgid "Mime Type Settings"
+msgstr "Ustawienia typu MIME"
+
+#: includes/admin.php:5 includes/admin.php:78
+msgid "WP Add Mime Types Admin Settings"
+msgstr "Ustawienia administracyjne WP Add Mime Types"

@@ -1,0 +1,395 @@
+# Translation of Plugins - WP Maintenance Mode - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - WP Maintenance Mode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-13 15:19:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - WP Maintenance Mode - Stable (latest release)\n"
+
+#: views/settings.php:648
+msgid "If you want to see the list of subscribers, go to Modules &raquo; Subscribe &raquo; Export as CSV."
+msgstr "Jeśli chcesz zobaczyć listę subskrybentów, przejdź do Moduły &raquo; Subskrypcje &raquo; Eksport do CSV."
+
+#: views/settings.php:48
+msgid "GDPR"
+msgstr "RODO"
+
+#: views/settings.php:601
+msgid "Enable IP anonymization?"
+msgstr "Włączyć anonimizację IP?"
+
+#. Description of the plugin
+msgid "Adds a splash page to your site that lets visitors know your site is down for maintenance. It's perfect for a coming soon page."
+msgstr "Dodaje stronę informującą odwiedzających o konserwacji witryny. Idealna dla wkrótce otwieranych stron."
+
+#. Author of the plugin
+msgid "Designmodo"
+msgstr "Designmodo"
+
+#: includes/classes/wp-maintenance-mode-admin.php:568
+msgid "Settings"
+msgstr "Ustawienia"
+
+#. Plugin Name of the plugin
+#: includes/classes/wp-maintenance-mode-admin.php:217
+#: includes/classes/wp-maintenance-mode-admin.php:218
+msgid "WP Maintenance Mode"
+msgstr "WP Tryb Konserwacji"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode-admin.php:594
+msgid "The Maintenance Mode is <strong>active</strong>. Please don't forget to <a href=\"%s\">deactivate</a> as soon as you are done."
+msgstr "Tryb Konserwacji jest <strong>aktywny</strong>. Pamiętaj, aby go <a href=\"%s\">wyłączyć</a>, kiedy skończysz.v"
+
+#: includes/classes/wp-maintenance-mode.php:123
+msgid "<p>Sorry for the inconvenience.<br />Our website is currently undergoing scheduled maintenance.<br />Thank you for your understanding.</p>"
+msgstr "<p>Przepraszamy za niedogodności.<br />Nasza strona jest obecnie poddawana pracom konserwacyjnym.<br />Dziękujemy za zrozumienie.</p>"
+
+#: includes/classes/wp-maintenance-mode.php:142
+msgid "Notify me when it's ready"
+msgstr "Powiadom mnie po uruchomieniu strony"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode.php:322
+msgid "WP Maintenance Mode plugin was relaunched and you MUST revise <a href=\"%s\">settings</a>."
+msgstr "Wtyczka WP Tryb Konserwacji została ponownie uruchomiona i MUSISZ sprawdzić <a href=\"%s\">ustawienia</a>.v"
+
+#: includes/classes/wp-maintenance-mode.php:1042
+msgid "All fields required."
+msgstr "Wszystkie pola są wymagane"
+
+#: includes/classes/wp-maintenance-mode.php:1053
+msgid "Message via contact"
+msgstr "Wiadomość poprzez kontakt"
+
+#: includes/classes/wp-maintenance-mode.php:1078
+msgid "Your email was sent to the website administrator. Thanks!"
+msgstr "Twój adres e-mail został wysłany do administratora strony. Dzięki!"
+
+#: views/maintenance.php:99
+msgid "your e-mail..."
+msgstr "Twój e-mail..."
+
+#: views/maintenance.php:100 views/settings.php:395
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
+#: views/maintenance.php:169 views/sidebar.php:16
+msgid "Name"
+msgstr "Nazwa"
+
+#: views/maintenance.php:172
+msgid "E-mail"
+msgstr "E-mail"
+
+#: views/maintenance.php:180
+msgid "Your message"
+msgstr "Twoja wiadomość"
+
+#: includes/classes/wp-maintenance-mode.php:660 views/maintenance.php:199
+msgid "Send"
+msgstr "Wyślij"
+
+#: views/maintenance.php:206
+msgid "Contact us"
+msgstr "Skontaktuj się z nami"
+
+#: views/maintenance.php:218
+msgid "Dashboard"
+msgstr "Kokpit"
+
+#: views/settings.php:21
+msgid "General"
+msgstr "Ogólne"
+
+#: views/settings.php:28
+msgid "Design"
+msgstr "Wygląd"
+
+#: views/settings.php:34
+msgid "Modules"
+msgstr "Moduły"
+
+#: views/settings.php:59 views/settings.php:653 views/settings.php:838
+msgid "Status"
+msgstr "Status"
+
+#: views/settings.php:68
+msgid "Bypass for Search Bots"
+msgstr "Wstęp dla wyszukiwarek"
+
+#: views/settings.php:72 views/settings.php:143 views/settings.php:155
+#: views/settings.php:361 views/settings.php:405 views/settings.php:452
+#: views/settings.php:556 views/settings.php:594 views/settings.php:605
+msgid "Yes"
+msgstr "Tak"
+
+#: views/settings.php:73 views/settings.php:144 views/settings.php:156
+#: views/settings.php:362 views/settings.php:406 views/settings.php:453
+#: views/settings.php:557 views/settings.php:595 views/settings.php:606
+msgid "No"
+msgstr "Nie"
+
+#: views/settings.php:75
+msgid "Allow Search Bots to bypass maintenance mode?"
+msgstr "Umożliwić wyszukiwarkom pominięcie trybu konserwacji?"
+
+#: views/settings.php:80
+msgid "Backend Role"
+msgstr "Rola back-end"
+
+#: views/settings.php:93
+msgid "Frontend Role"
+msgstr "Rola front-end"
+
+#: views/settings.php:106
+msgid "Robots Meta Tag"
+msgstr "Metatag Robots"
+
+#: views/settings.php:113
+msgid "The robots meta tag lets you use a granular, page-specific approach to control how an individual page should be indexed and served to users in search results."
+msgstr "Znacznik meta robots pozwala ci sprecyzować, jak poszczególne strony powinny być indeksowane i widoczne dla użytkowników w wynikach wyszukiwarkek internetowych."
+
+#: views/settings.php:118
+msgid "Redirection"
+msgstr "Przekierowanie"
+
+#: views/settings.php:127
+msgid "Exclude"
+msgstr "Wyklucz"
+
+#: views/settings.php:134
+msgid "Exclude feed, pages, archives or IPs from maintenance mode. Add one slug / IP per line!"
+msgstr "Zezwól na dostęp podczas trybu konserwacji do kanałów internetowych, stron, archiwów lub adresów IP. Podaj jeden wpis / IP na linię!"
+
+#: views/settings.php:139
+msgid "Notice"
+msgstr "Powiadomienie"
+
+#: views/settings.php:146
+msgid "Do you want to see notices when maintenance mode is activated?"
+msgstr "Chcesz widzieć powiadomienia podczas aktywnego trybu konserwacji?"
+
+#: views/settings.php:151
+msgid "Dashboard link"
+msgstr "Link do kokpitu"
+
+#: views/settings.php:158
+msgid "Do you want to add a link to the dashboard on your maintenance mode page?"
+msgstr "Chcesz dodać link do kokpitu na stronie trybu konserwacyjnego?"
+
+#: views/settings.php:165 views/settings.php:344 views/settings.php:635
+#: views/settings.php:822 views/settings.php:898
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: views/settings.php:166 views/settings.php:345 views/settings.php:636
+#: views/settings.php:823 views/settings.php:899
+msgid "Reset settings"
+msgstr "Zresetuj ustawienia"
+
+#: views/settings.php:178
+msgid "Title (HTML tag)"
+msgstr "Tytuł (tag HTML)"
+
+#: views/settings.php:186
+msgid "Heading"
+msgstr "Nagłówek"
+
+#: views/settings.php:195 views/settings.php:412
+msgid "Text"
+msgstr "Tekst"
+
+#: views/settings.php:252
+msgid "Background"
+msgstr "Tło"
+
+#: views/settings.php:258
+msgid "Choose type"
+msgstr "Wybierz rodzaj"
+
+#: views/settings.php:262
+msgid "Custom color"
+msgstr "Własny kolor"
+
+#: views/settings.php:263
+msgid "Uploaded background"
+msgstr "Przesłane tło"
+
+#: views/settings.php:264
+msgid "Predefined background"
+msgstr "Uprzednio zdefiniowane tło"
+
+#: views/settings.php:270
+msgid "Choose color"
+msgstr "Wybierz kolor"
+
+#: views/settings.php:278
+msgid "Upload background"
+msgstr "Prześlij tło"
+
+#: views/settings.php:291
+msgid "Backgrounds should have 1920x1280 px size."
+msgstr "Tło powinno mieć rozmiar 1920x1280 px."
+
+#: views/settings.php:296
+msgid "Choose background"
+msgstr "Wybierz tło"
+
+#: views/settings.php:351
+msgid "Countdown"
+msgstr "Odliczanie"
+
+#: views/settings.php:357
+msgid "Show countdown?"
+msgstr "Pokazać odliczanie?"
+
+#: views/settings.php:376
+msgid "Countdown (remaining time)"
+msgstr "Odliczanie (pozostały czas)"
+
+#: views/settings.php:379
+msgid "Days"
+msgstr "Dni"
+
+#: views/settings.php:380
+msgid "Hours"
+msgstr "Godzin"
+
+#: views/settings.php:381
+msgid "Minutes"
+msgstr "Minut"
+
+#: views/settings.php:386
+msgid "Color"
+msgstr "Kolor"
+
+#: views/settings.php:401
+msgid "Show subscribe?"
+msgstr "Umożliwić subskrypcję?"
+
+#: views/settings.php:421
+msgid "Stats"
+msgstr "Statystyki"
+
+#: views/settings.php:433
+msgid "Export as CSV"
+msgstr "Eksportuj jako CSV"
+
+#: views/settings.php:442
+msgid "Social Networks"
+msgstr "Serwisy społecznościowe"
+
+#: views/settings.php:448
+msgid "Show social networks?"
+msgstr "Pokazać serwisy społecznościowe?"
+
+#: views/settings.php:459
+msgid "Links target?"
+msgstr "Cel linków?"
+
+#: views/settings.php:463 views/settings.php:870
+msgid "New page"
+msgstr "Nowa karta"
+
+#: views/settings.php:464 views/settings.php:871
+msgid "Same page"
+msgstr "Ta sama karta"
+
+#: views/settings.php:466
+msgid "Choose how the links will open."
+msgstr "Wybierz, w jakim miejscu powinny zostać otwierane linki."
+
+#: views/settings.php:546
+msgid "Contact"
+msgstr "Kontakt"
+
+#: views/settings.php:552
+msgid "Show contact?"
+msgstr "Pokazać kontakt?"
+
+#: views/settings.php:563
+msgid "Email address"
+msgstr "Adres e-mail"
+
+#: views/settings.php:571
+msgid "Effects"
+msgstr "Efekty"
+
+#: views/settings.php:575
+msgid "Move top - Move bottom"
+msgstr "Wejście z góry - w dół"
+
+#: views/settings.php:576
+msgid "Zoom - Zoomed"
+msgstr "Przybliżenie - przybliżone"
+
+#: views/settings.php:577
+msgid "Fold - Unfold"
+msgstr "Obrót - obrócone"
+
+#: views/settings.php:584
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: views/settings.php:590
+msgid "Use Google Analytics?"
+msgstr "Używać Google Analytics?"
+
+#: views/settings.php:624
+msgid "Tracking code"
+msgstr "Kod śledzenia"
+
+#: views/sidebar.php:12
+msgid "Plugin Info"
+msgstr "Informacje o wtyczce"
+
+#: views/sidebar.php:22
+msgid "Author"
+msgstr "Autor"
+
+#: views/sidebar.php:24
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/sidebar.php:25
+msgid "GitHub"
+msgstr "GitHub"
+
+#: views/settings.php:62 views/settings.php:656 views/settings.php:841
+msgid "Activated"
+msgstr "Włączono"
+
+#: views/sidebar.php:23
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: includes/classes/wp-maintenance-mode.php:1007
+#: includes/classes/wp-maintenance-mode.php:1046 views/maintenance.php:172
+msgid "Please enter a valid email address."
+msgstr "Proszę wprowadzić prawidłowy adres e-mail."
+
+#: views/settings.php:172
+msgid "Content"
+msgstr "Treść"
+
+#: views/settings.php:368
+msgid "Start date"
+msgstr "Data rozpoczęcia"
+
+#: views/loginform.php:17
+msgid "Login"
+msgstr "Logowanie"
+
+#: views/settings.php:63 views/settings.php:657 views/settings.php:842
+msgid "Deactivated"
+msgstr "Wyłączono"
+
+#: includes/classes/wp-maintenance-mode.php:588
+msgid "Maintenance Mode"
+msgstr "Przerwa techniczna"

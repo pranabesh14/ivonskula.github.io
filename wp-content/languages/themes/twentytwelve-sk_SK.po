@@ -1,0 +1,368 @@
+# Translation of Themes - Twenty Twelve in Slovak
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-22 10:41:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Téma 2012 pre WordPress je plne responzívna téma, ktorá vyzerá výborne na každom zariadení. Obsahuje funkcie ako šablóna úvodnej stránky s vlastnými widgetmi, možnosť nastavenia zobrazovaného fontu, nastavenie formátu príspevkov a voliteľnú šablónu stránky bez bočných panelov. Prispôsobte si ju s vlastným menu, obrázkom  hlavičky a pozadím."
+
+#. Theme Name of the theme
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve "
+
+#. translators: %s: The post title.
+#: comments.php:35
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Jeden názor na &ldquo;%s&rdquo;"
+
+#: functions.php:94
+msgid "White"
+msgstr "Biela"
+
+#: functions.php:89
+msgid "Light Gray"
+msgstr "Svetlá šedá"
+
+#: functions.php:84
+msgid "Medium Gray"
+msgstr "Stredne šedá"
+
+#: functions.php:79
+msgid "Dark Gray"
+msgstr "Tmavá šedá"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "Modrá"
+
+#. Template Name of the theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Šablóna stránky na celú šírku, bez bočných panelov"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Šablóna titulnej strany"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Archív značiek: %s"
+
+#: single.php:25
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:24
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Ospravedlňujeme sa, ale nenašli sme nič vyhovujúce zadaným kritériám. Prosím skúste to znovu s inými kľúčovými slovami."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhľadávania pre: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:49
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Pripravený vytvoriť svoj prvý článok? <a href=\"%s\">Začnite tu</a>."
+
+#: index.php:42
+msgid "No posts to display"
+msgstr "Žiadne články na zobrazenie"
+
+#: image.php:47
+msgid "Next &rarr;"
+msgstr "Nasledujúce &rarr;"
+
+#: image.php:46
+msgid "&larr; Previous"
+msgstr "&larr; Predchádzajúce"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:31
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Publikované </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> o <a href=\"%3$s\" title=\"Odkaz na obrázok v plnej veľkosti\">%4$s &times; %5$s</a> v <a href=\"%6$s\" title=\"Naspäť na %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Preskočiť na obsah"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:530
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Tento záznam bol pridaný %3$s<span class=\"by-author\"> od %4$s</span>."
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:527
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Tento záznam bol pridaný do %1$s dňa %3$s<span class=\"by-author\"> od %4$s</span>."
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:524
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Tento záznam bol pridaný do %1$s a označený %2$s dňa %3$s<span class=\"by-author\"> od %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:518
+msgid "View all posts by %s"
+msgstr "Zobraziť všetky články podľa %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:501 functions.php:504
+msgid ", "
+msgstr ", "
+
+#: functions.php:473
+msgid "Reply"
+msgstr "Odpovedať"
+
+#: functions.php:452
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentár čaká na schválenie."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:444
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: functions.php:437
+msgid "Post author"
+msgstr "Autor"
+
+#: functions.php:421
+msgid "(Edit)"
+msgstr "(Upraviť)"
+
+#: functions.php:421
+msgid "Pingback:"
+msgstr "Spätné upozornenie:"
+
+#: functions.php:395
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novšie články <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:394
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Staršie články"
+
+#: functions.php:393 single.php:23
+msgid "Post navigation"
+msgstr "Navigácia článkami"
+
+#: functions.php:370
+msgid "Second Front Page Widget Area"
+msgstr "Sekundárna oblasť widgetov titulnej strany"
+
+#: functions.php:360 functions.php:372
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Zobrazí sa pri voľbe statickej strany na titulnej strane šablóny"
+
+#: functions.php:358
+msgid "First Front Page Widget Area"
+msgstr "Primárna oblasť widgetov titulnej strany"
+
+#: functions.php:348
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Zobrazuje sa v príspevkoch a na stránkach okrem šablóny úvodnej stránky, ktorá má svoje vlastné widgety."
+
+#: functions.php:346
+msgid "Main Sidebar"
+msgstr "Hlavný bočný panel"
+
+#. translators: %s: Page number.
+#: functions.php:314
+msgid "Page %s"
+msgstr "Strana %s"
+
+#: functions.php:159
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "žiadny-subset"
+
+#: functions.php:152
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Hlavné menu"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Hrdo poháňa %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "Sémantická osobná publikačná platforma"
+
+#. translators: %s: Author display name.
+#: content.php:85
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Prezerať všetky články podľa %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Odporúčaný príspevok"
+
+#: content.php:50 image.php:124 content-page.php:24
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: index.php:63 content-none.php:17
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Ospravedlňujeme sa, ale nenašli sa žiadne výsledky."
+
+#: index.php:59 search.php:42 content-none.php:13
+msgid "Nothing Found"
+msgstr "Nenašlo sa"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Odkaz"
+
+#: content-link.php:27 content.php:60 functions.php:464 content-image.php:26
+#: content-quote.php:26 content-status.php:43 image.php:42 content-aside.php:29
+#: content-page.php:31
+msgid "Edit"
+msgstr "Upraviť"
+
+#: content-link.php:24 content.php:35 content-image.php:23 content-quote.php:23
+#: content-status.php:40 content-aside.php:26
+msgid "% Replies"
+msgstr "Odpovedí: %"
+
+#: content-link.php:24 content.php:35 content-image.php:23 content-quote.php:23
+#: content-status.php:40 content-aside.php:26
+msgid "1 Reply"
+msgstr "1 Odpoveď"
+
+#: content-link.php:24 content.php:35 content-image.php:23 content-quote.php:23
+#: content-status.php:40 content-aside.php:26
+msgid "Leave a reply"
+msgstr "Pridaj komentár"
+
+#. translators: %s: Post title.
+#: content-link.php:11 content-quote.php:11 content-status.php:11
+#: content-aside.php:11
+msgid "Permalink to %s"
+msgstr "Trvalý odkaz na %s"
+
+#: content-link.php:17 content.php:46 content-image.php:13 content-quote.php:16
+#: content-status.php:34 content-aside.php:18
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Pokračovať v čítaní <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Nie je možné pridávať komentáre."
+
+#: comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr "Novšie komentáre &rarr;"
+
+#: comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; Staršie komentáre"
+
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "Navigácia komentármi"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:41
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s názor na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s názory na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s názorov na &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Archív kategorií: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:74 content.php:77
+msgid "About %s"
+msgstr "O %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Archívy autora: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archív"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Ročné archívy: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Mesačné archívy: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Denné archívy: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie je možné nájsť to, čo hľadáte. Skúste použiť vyhľadávanie."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Je mi ľúto!"
+
+#. Author URI of the theme
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://sk.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "tím WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://wordpress.org/themes/twentytwelve/"

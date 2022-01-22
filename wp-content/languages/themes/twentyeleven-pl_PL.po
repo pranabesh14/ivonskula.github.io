@@ -1,0 +1,677 @@
+# Translation of Themes - Twenty Eleven in Polish
+# This file is distributed under the same license as the Themes - Twenty Eleven package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-24 06:53:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Twenty Eleven\n"
+
+#. Description of the theme
+msgid "The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom \"Ephemera\" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured \"sticky\" posts), and special styles for six different post formats."
+msgstr "Motyw &#8222;Twenty Eleven&#8221; jest wyrafinowany i lekki i udostępnia opcje, dzięki którym można go spersonalizować. Uczyń go swoim motywem, tworząc własne menu główne i używając własnego obrazka w nagłówku i tle. Wybierz jasny lub ciemny zestaw kolorów, kolor odnośników i jeden z trzech dostępnych układów treści. &#8222;Twenty Eleven&#8221; zawiera szablon dla stron o nazwie &#8222;Galeria&#8221;, który zmienia stronę główną witryny w galerię wyświetlającą najciekawsze treści umieszczone na witrynie. Udostępnia on wiele możliwości rozmieszczenia widgetów (w panelu bocznym, w jednym z trzech obszarów w stopce oraz w panelu bocznym wspomnianego szablonu &#8222;Galeria&#8221;) oraz własny widget, nazwany &#8222;Efemeryda&#8221;, który wyświetla spis najnowszych notatek na marginesie, odnośników, cytatów i informacji o stanie. Motyw ten posiada osobne arkusze stylów dla druku i dla edytora tekstu panelu administracyjnego, obsługuje obrazki wyróżniające (jako obrazki w nagłówku dla wpisów i stron oraz duże obrazki dla przyklejonych polecanych wpisów) i różne sposoby wyświetlania sześciu udostępnianych formatów wpisów."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Eleven"
+msgstr "Twenty Eleven"
+
+#: functions.php:755
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Komentarz czeka na zatwierdzenie. To jest podgląd komentarza, który będzie widoczny po jego zatwierdzeniu."
+
+#: inc/theme-options.php:121
+msgid "<a href=\"https://wordpress.org/support/article/appearance-customize-screen/\" target=\"_blank\">Documentation on Theme Options</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/appearance-customize-screen/\" target=\"_blank\">Dokumentacja opcji motywu</a>"
+
+#. translators: %s: The post title.
+#: comments.php:37
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jeden komentarz do &ldquo;%1$s&rdquo;"
+
+#: functions.php:122
+msgid "Light Gray"
+msgstr "Jasnoszary"
+
+#: functions.php:112
+msgid "Dark Gray"
+msgstr "Ciemnoszary"
+
+#: functions.php:127
+msgid "White"
+msgstr "Biały"
+
+#: functions.php:102
+msgid "Blue"
+msgstr "Niebieski"
+
+#: functions.php:117
+msgid "Medium Gray"
+msgstr "Szary"
+
+#: functions.php:107
+msgid "Black"
+msgstr "Czarny"
+
+#. Template Name of the theme
+msgid "Sidebar Template"
+msgstr "Szablon panelu bocznego"
+
+#. Template Name of the theme
+msgid "Showcase Template"
+msgstr "Szablon galerii"
+
+#. translators: %s: Tag title.
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Archiwa tagu: %s"
+
+#: single.php:23
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następny <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:22
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:19
+msgid "Archives"
+msgstr "Archiwa"
+
+#: showcase.php:176
+msgid "Recent Posts"
+msgstr "Ostatnie wpisy"
+
+#. translators: %s: Post title.
+#: showcase.php:164
+msgid "Featuring: %s"
+msgstr "Polecane: %s"
+
+#: showcase.php:83
+msgid "Featured Post"
+msgstr "Wyróżniony wpis"
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr "Szukaj"
+
+#: search.php:56
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nic nie zostało dopasowane do Twoich kryteriów wyszukiwania. Proszę spróbować ponownie, korzystając z innych słów kluczowych."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania: %s"
+
+#: inc/widgets.php:198
+msgid "Number of posts to show:"
+msgstr "Liczba wpisów do wyświetlenia:"
+
+#: inc/widgets.php:195
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: inc/widgets.php:119 inc/widgets.php:128
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr "% <span class=\"reply\">komentarzy &rarr;</span>"
+
+#: inc/widgets.php:119 inc/widgets.php:128
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr "1 <span class=\"reply\">komentarz &rarr;</span>"
+
+#: inc/widgets.php:119 inc/widgets.php:128
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr "0 <span class=\"reply\">komentarzy &rarr;</span>"
+
+#: inc/widgets.php:74
+msgid "Ephemera"
+msgstr "Efemeryda"
+
+#: inc/widgets.php:23
+msgid "Twenty Eleven Ephemera"
+msgstr "Efemeryda motywu &#8222;Twenty Eleven&#8221;"
+
+#: inc/widgets.php:26
+msgid "Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr "Ten widget wyświetla ostatnio opublikowane notatki na marginesie, informacje o stanie, cytaty oraz odnośniki"
+
+#: inc/theme-options.php:612
+msgid "Layout"
+msgstr "Układ"
+
+#. translators: %s: Theme name.
+#: inc/theme-options.php:349
+msgid "%s Theme Options"
+msgstr "Opcje motywu &#8222;%s&#8221;"
+
+#. translators: %s: Link color.
+#: inc/theme-options.php:308
+msgid "Default color: %s"
+msgstr "Domyślny kolor: %s"
+
+#: inc/theme-options.php:302
+msgid "Select a Color"
+msgstr "Wybierz kolor"
+
+#: inc/theme-options.php:193
+msgid "One-column, no sidebar"
+msgstr "Jednokolumnowy, bez panelu bocznego"
+
+#: inc/theme-options.php:188
+msgid "Content on right"
+msgstr "Treść po prawej"
+
+#: inc/theme-options.php:183
+msgid "Content on left"
+msgstr "Treść po lewej"
+
+#: inc/theme-options.php:158
+msgid "Dark"
+msgstr "Ciemny"
+
+#: inc/theme-options.php:152
+msgid "Light"
+msgstr "Jasny"
+
+#: inc/theme-options.php:130
+msgid "Overview"
+msgstr "Przegląd"
+
+#: inc/theme-options.php:122
+msgid "<a href=\"https://wordpress.org/support/\" target=\"_blank\">Support</a>"
+msgstr "<a href=\"https://pl.forums.wordpress.org/\" target=\"_blank\">Forum pomocy</a>"
+
+#: inc/theme-options.php:120
+msgid "For more information:"
+msgstr "Więcej informacji:"
+
+#: inc/theme-options.php:118
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr "Pamiętaj, aby kliknąć przycisk &#8222;Zapisz zmiany&#8221;, aby wprowadzić zmiany dokonane w ustawieniach motywu."
+
+#: inc/theme-options.php:116
+msgid "<strong>Default Layout</strong>: You can choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
+msgstr "<strong>Domyślny układ</strong> &ndash; Możesz wybrać, czy domyślnym układem treści na Twojej witrynie ma być układ z panelem bocznym po lewej stronie, z panelem bocznym po prawej stronie lub bez panelu bocznego."
+
+#: inc/theme-options.php:115
+msgid "<strong>Link Color</strong>: You can choose the color used for text links on your site. You can enter the HTML color or hex code, or you can choose visually by clicking the \"Select a Color\" button to pick from a color wheel."
+msgstr "<strong>Kolor odnośników</strong> &ndash; Możesz wybrać kolor odnośników wyświetlanych na witrynie. Kolor może zostać podany w postaci kodu HTML lub szesnastkowego albo wybrany z mieszarki barw po kliknięciu przycisku &#8222;Wybierz kolor&#8221;."
+
+#: inc/theme-options.php:114
+msgid "<strong>Color Scheme</strong>: You can choose a color palette of \"Light\" (light background with dark text) or \"Dark\" (dark background with light text) for your site."
+msgstr "<strong>Zestaw kolorów</strong> &ndash; Dostępne są &#8222;jasny&#8221; (jasne tło z ciemnym tekstem) oraz &#8222;ciemny&#8221; (ciemne tło z jasnym tekstem) zestaw kolorów."
+
+#: inc/theme-options.php:112
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Your current theme, Twenty Eleven, provides the following Theme Options:"
+msgstr "Niektóre motywy dostarczają opcji pozwalających na ich personalizację, które zgromadzone są na ekranie &#8222;Opcje motywu&#8221;. Przy zmianie motywu na inny niektóre spośród nich mogą zmienić się lub zniknąć, ponieważ dotyczą one motywu używanego w danej chwili. W obecnie używanym przez Ciebie motywie, &#8222;Twenty Eleven&#8221;, dostępne są następujące opcje:"
+
+#: inc/theme-options.php:95 inc/theme-options.php:96
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: inc/theme-options.php:63
+msgid "Default Layout"
+msgstr "Domyślny układ"
+
+#: inc/theme-options.php:62 inc/theme-options.php:601
+msgid "Link Color"
+msgstr "Kolor odnośnika"
+
+#: inc/theme-options.php:56 inc/theme-options.php:576
+msgid "Color Scheme"
+msgstr "Zestaw kolorów"
+
+#. translators: 1: Time, 2: Date, 3: Image permalink, 4: Image width, 5: Image
+#. height, 6: Parent permalink, 7: Parent post title, 8: Parent post title.
+#: image.php:35
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Opublikowano </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> o <a href=\"%3$s\" title=\"Odnośnik do oryginalnego obrazka\">%4$s &times; %5$s</a> w <a href=\"%6$s\" title=\"Powrót do „%7$s”\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:23
+msgid "Next &rarr;"
+msgstr "Następne &rarr;"
+
+#: image.php:22
+msgid "&larr; Previous"
+msgstr "&larr; Poprzednie"
+
+#: image.php:21
+msgid "Image navigation"
+msgstr "Nawigacja po obrazkach"
+
+#: functions.php:928
+msgid "Skip to secondary content"
+msgstr "Przeskocz do widgetów"
+
+#: functions.php:926
+msgid "Skip to primary content"
+msgstr "Przeskocz do tekstu"
+
+#: header.php:148
+msgid "Main menu"
+msgstr "Główne menu"
+
+#. translators: %s: Page number.
+#: header.php:46
+msgid "Page %s"
+msgstr "Strona %s"
+
+#. translators: 1: The permalink, 2: Time, 3: Date and time, 4: Date and time,
+#. 5: Author posts, 6: Author post link text, 7: Author display name.
+#: functions.php:801
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">Opublikowany </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> przez </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: functions.php:774
+msgid "Reply <span>&darr;</span>"
+msgstr "Odpowiedz <span>&darr;</span>"
+
+#: functions.php:753
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:742
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#. translators: 1: Comment author, 2: Date and time.
+#: functions.php:735
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s, %2$s <span class=\"says\">:</span>"
+
+#: functions.php:715
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:610
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:609
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#: functions.php:608 single.php:21
+msgid "Post navigation"
+msgstr "Nawigacja wpisu"
+
+#: functions.php:582
+msgid "Footer Area Three"
+msgstr "Trzeci obszar w stopce"
+
+#: functions.php:570
+msgid "Footer Area Two"
+msgstr "Drugi obszar w stopce"
+
+#: functions.php:560 functions.php:572 functions.php:584
+msgid "An optional widget area for your site footer"
+msgstr "Opcjonalny obszar dla widgetów znajdujący się w stopce"
+
+#: functions.php:558
+msgid "Footer Area One"
+msgstr "Pierwszy obszar w stopce"
+
+#: functions.php:548
+msgid "The sidebar for the optional Showcase Template"
+msgstr "Panel boczny wyświetlany na stronach korzystających z szablonu &#8222;Galeria&#8221;"
+
+#: functions.php:546
+msgid "Showcase Sidebar"
+msgstr "Panel boczny galerii"
+
+#: functions.php:535
+msgid "Main Sidebar"
+msgstr "Główny panel boczny"
+
+#. translators: Header image description.
+#: functions.php:283
+msgid "Hanoi Plant"
+msgstr "Roślina z Hanoi"
+
+#. translators: Header image description.
+#: functions.php:277
+msgid "Willow"
+msgstr "Wierzba"
+
+#. translators: Header image description.
+#: functions.php:271
+msgid "Lanterns"
+msgstr "Latarnie"
+
+#. translators: Header image description.
+#: functions.php:265
+msgid "Chessboard"
+msgstr "Szachownica"
+
+#. translators: Header image description.
+#: functions.php:253
+msgid "Trolley"
+msgstr "Tramwaj"
+
+#. translators: Header image description.
+#: functions.php:259
+msgid "Pine Cone"
+msgstr "Szyszka sosny"
+
+#. translators: Header image description.
+#: functions.php:247
+msgid "Shore"
+msgstr "Wybrzeże"
+
+#. translators: Header image description.
+#: functions.php:241
+msgid "Wheel"
+msgstr "Koło"
+
+#: functions.php:147
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#. translators: %s: WordPress
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez %s"
+
+#: footer.php:34
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantyczna platforma publikowania osobistego"
+
+#: content.php:16
+msgid "Featured"
+msgstr "Wyróżnione"
+
+#: content-status.php:19
+msgid "Status"
+msgstr "Status"
+
+#. translators: %s: Author name.
+#: content-single.php:90
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Zobacz wszystkie wpisy, których autorem jest %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: 1: Categories list, 2: Tag list, 3: Permalink, 4: Post title,
+#. 5: Author name, 6: Author URL.
+#: content-single.php:50
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Autor: <a href=\"%6$s\">%5$s</a>. Dodaj zakładkę do <a href=\"%3$s\" title=\"Bezpośredni odnośnik do &#8222;%4$s&#8221;\" rel=\"bookmark\">bezpośredniego odnośnika</a>."
+
+#. translators: 1: Categories list, 2: Tag list, 3: Permalink, 4: Post title,
+#. 5: Author name, 6: Author URL.
+#: content-single.php:47
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Kategorie: %1$s. Autor: <a href=\"%6$s\">%5$s</a>. Dodaj zakładkę do <a href=\"%3$s\" title=\"Bezpośredni odnośnik do &#8222;%4$s&#8221;\" rel=\"bookmark\">bezpośredniego odnośnika</a>."
+
+#. translators: 1: Categories list, 2: Tag list, 3: Permalink, 4: Post title,
+#. 5: Author name, 6: Author URL.
+#: content-single.php:44
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Kategorie: %1$s. Tagi: %2$s. Autor: <a href=\"%6$s\">%5$s</a>. Dodaj zakładkę do <a href=\"%3$s\" title=\"Bezpośredni odnośnik do &#8222;%4$s&#8221;\" rel=\"bookmark\">bezpośredniego odnośnika</a>."
+
+#: content-quote.php:15
+msgid "Quote"
+msgstr "Cytat"
+
+#: content-link.php:19
+msgid "Link"
+msgstr "Odnośnik"
+
+#. translators: %s: Author display name.
+#. translators: %s: Author display name.
+#: content-image.php:51 functions.php:808
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie wpisy opublikowane przez %s"
+
+#. translators: 1: The permalink, 2: Date and time, 3: Date and time, 4: Author
+#. link, 5: Author link title, 6: Author display name.
+#: content-image.php:45
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> przez </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: content-image.php:18
+msgid "Image"
+msgstr "Obrazek"
+
+#. translators: 1: CSS classes, 2: List of tags.
+#. translators: 1: CSS classes, 2: Tag list.
+#. translators: 1: CSS classes, 2: List of tags.
+#. translators: 1: CSS classes, 2: Tag list.
+#: content-gallery.php:101 content-image.php:80 content-quote.php:77
+#: content.php:86
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Otagowano</span> %2$s"
+
+#. translators: 1: CSS classes, 2: List of categories.
+#. translators: 1: CSS classes, 2: Category list.
+#. translators: 1: CSS classes, 2: List of categories.
+#. translators: 1: CSS classes, 2: Category list.
+#: content-gallery.php:83 content-image.php:66 content-quote.php:59
+#: content.php:66
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Zaszufladkowano do kategorii</span> %2$s"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title.
+#: content-gallery.php:52 showcase.php:129
+msgid "Permalink to %s"
+msgstr "Bezpośredni odnośnik do %s"
+
+#. translators: 1: Link attributes, 2: Number of photos.
+#: content-gallery.php:50
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Ta galeria zawiera <a %1$s>%2$s zdjęcie</a>."
+msgstr[1] "Ta galeria zawiera <a %1$s>%2$s zdjęcia</a>."
+msgstr[2] "Ta galeria zawiera <a %1$s>%2$s zdjęć</a>."
+
+#: content-gallery.php:19
+msgid "Gallery"
+msgstr "Galeria"
+
+#. translators: 1: Category list, 3: Post permalink, 4: Post title.
+#: content-featured.php:43
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ten wpis został opublikowany w kategorii %1$s. Dodaj zakładkę do <a href=\"%3$s\" title=\"Bezpośredni odnośnik do %4$s\" rel=\"bookmark\">bezpośredniego odnośnika</a>."
+
+#. translators: 1: Category list, 2: Tag list, 3: Post permalink, 4: Post
+#. title.
+#: content-featured.php:40
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ten wpis został opublikowany w kategorii %1$s i oznaczony tagami %2$s. Dodaj zakładkę do <a href=\"%3$s\" title=\"Bezpośredni odnośnik do %4$s\" rel=\"bookmark\">bezpośredniego odnośnika</a>."
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: content-featured.php:36 content-featured.php:49 content-gallery.php:76
+#: content-gallery.php:91 content-image.php:59 content-image.php:73
+#: content-quote.php:52 content-quote.php:67 content-single.php:37
+#: content-single.php:40 content.php:59 content.php:76
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:53 content-featured.php:56 content-gallery.php:114
+#: content-image.php:90 content-intro.php:26 content-link.php:53
+#: content-page.php:28 content-quote.php:90 content-single.php:64
+#: content-status.php:66 content.php:100 functions.php:715 functions.php:747
+#: image.php:46
+msgid "Edit"
+msgstr "Edytuj"
+
+#: content-aside.php:51 content-gallery.php:111 content-image.php:86
+#: content-link.php:51 content-quote.php:87 content-status.php:64
+#: content.php:97 showcase.php:220
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> odpowiedzi"
+
+#: content-aside.php:51 content-gallery.php:111 content-image.php:86
+#: content-link.php:51 content-quote.php:87 content-status.php:64
+#: content.php:97 showcase.php:220
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> odpowiedź"
+
+#: content-aside.php:51 content-gallery.php:111 content-image.php:86
+#: content-link.php:51 content-quote.php:87 content-status.php:64
+#: content.php:97 showcase.php:220
+msgid "Leave a reply"
+msgstr "Dodaj komentarz"
+
+#: content-aside.php:39 content-featured.php:26 content-gallery.php:63
+#: content-image.php:33 content-intro.php:21 content-link.php:39
+#: content-page.php:21 content-quote.php:39 content-single.php:27
+#: content-status.php:52 content.php:45 image.php:122
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-aside.php:35 content-gallery.php:34 content-image.php:29
+#: content-link.php:35 content-quote.php:35 content-status.php:48
+#: content.php:41 functions.php:462
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:24 content-image.php:23 content-link.php:24
+#: content-quote.php:24 content-status.php:24 content.php:30
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: content-aside.php:24 content-image.php:23 content-link.php:24
+#: content-quote.php:24 content-status.php:24 content.php:30
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content-aside.php:24 content-image.php:23 content-link.php:24
+#: content-quote.php:24 content-status.php:24 content.php:30
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: content-aside.php:19
+msgid "Aside"
+msgstr "Notatka na marginesie"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "Możliwość komentowania została wyłączona."
+
+#: comments.php:55 comments.php:76
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:54 comments.php:75
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:43
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentarz do &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarze do &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarzy do &ldquo;%2$s&rdquo;"
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ten wpis jest chroniony hasłem. Wprowadź hasło, aby zobaczyć komentarze do niego."
+
+#. translators: %s: �ategory title.
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Archiwum kategorii: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author name.
+#: author.php:70 content-single.php:82
+msgid "About %s"
+msgstr "O %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Archiwum autora: %s"
+
+#: archive.php:71 author.php:106 category.php:70 index.php:44 tag.php:70
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Przepraszamy, ale nie znaleziono żadnych elementów w wybranym archiwum. Być może wyszukiwanie pomoże odnaleźć pokrewny wpis."
+
+#: archive.php:67 author.php:102 category.php:66 index.php:40 search.php:52
+#: tag.php:66
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: archive.php:35
+msgid "Blog Archives"
+msgstr "Archiwum bloga"
+
+#. translators: %s: Date.
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Archiwum roku: %s"
+
+#. translators: %s: Date.
+#: archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:30
+msgid "Monthly Archives: %s"
+msgstr "Archiwum miesiąca: %s"
+
+#. translators: %s: Date.
+#: archive.php:27
+msgid "Daily Archives: %s"
+msgstr "Archiwum dnia: %s"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Najczęściej używane kategorie"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie lub jeden z poniższych odnośników przyniesie lepsze rezultaty."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Jest to trochę krępujące, nieprawdaż?"
+
+#. Author URI of the theme
+#: footer.php:34
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "zespół WordPressa"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentyeleven/"
+msgstr "https://wordpress.org/themes/twentyeleven/"
